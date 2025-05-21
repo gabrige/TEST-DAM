@@ -19,6 +19,8 @@ asignaturas = {
 # Configuración de la app
 st.set_page_config(page_title="Test DAM", layout="centered", page_icon="🧠")
 st.title("📘 Test para estudiar DAM")
+st.markdown("<div id='top'></div>", unsafe_allow_html=True)
+
 
 # Selector de asignatura
 asignatura = st.selectbox("Selecciona una asignatura", list(asignaturas.keys()))
@@ -102,3 +104,7 @@ if st.button("📝 Corregir Test"):
 
     porcentaje = (aciertos / len(preguntas_random)) * 100
     st.success(f"Has acertado {aciertos} de {len(preguntas_random)} preguntas. ({porcentaje:.2f}%)")
+
+    # Botón para volver arriba, solo aparece después de corregir
+    st.markdown("[🔝 Volver arriba](#top)", unsafe_allow_html=True)
+
