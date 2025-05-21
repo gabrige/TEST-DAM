@@ -35,16 +35,8 @@ if st.session_state.asignatura_anterior != asignatura_actual:
     st.session_state.pop("preguntas_random", None)
 
 if st.button("🔄 Reiniciar test"):
-    # Eliminar preguntas actuales
-    st.session_state.pop("preguntas_random", None)
+    st.session_state.clear()
 
-    # Eliminar todas las respuestas seleccionadas
-    keys_a_borrar = [k for k in st.session_state.keys() if k.startswith("pregunta_")]
-    for key in keys_a_borrar:
-        del st.session_state[key]
-
-    # Volver a cargar la app desde cero
-    st.experimental_rerun()
 
 
 # Cargar preguntas y mantenerlas en sesión
@@ -106,5 +98,25 @@ if st.button("📝 Corregir Test"):
     st.success(f"Has acertado {aciertos} de {len(preguntas_random)} preguntas. ({porcentaje:.2f}%)")
 
     # Botón para volver arriba, solo aparece después de corregir
-    st.markdown("[🔝 Volver arriba](#top)", unsafe_allow_html=True)
+    st.markdown("""
+    <div style="text-align: center; margin-top: 2em;">
+        <a href="#top">
+            <button style="
+                background-color: white;
+                color: #333;
+                border: 1px solid #ccc;
+                padding: 0.6em 1.4em;
+                border-radius: 6px;
+                font-size: 1rem;
+                cursor: pointer;
+                transition: all 0.3s ease;
+            " onmouseover="this.style.border='1px solid #666'" 
+              onmouseout="this.style.border='1px solid #ccc'">
+                🔝 Volver arriba
+            </button>
+        </a>
+    </div>
+""", unsafe_allow_html=True)
+
+
 
