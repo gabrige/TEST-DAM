@@ -32,10 +32,18 @@ if st.session_state.asignatura_anterior != asignatura_actual:
     st.session_state.asignatura_anterior = asignatura_actual
     st.session_state.pop("preguntas_random", None)
 
-# Reinicio manual del test
 if st.button("🔄 Reiniciar test"):
+    # Eliminar preguntas actuales
     st.session_state.pop("preguntas_random", None)
+
+    # Eliminar todas las respuestas seleccionadas
+    keys_a_borrar = [k for k in st.session_state.keys() if k.startswith("pregunta_")]
+    for key in keys_a_borrar:
+        del st.session_state[key]
+
+    # Volver a cargar la app desde cero
     st.experimental_rerun()
+
 
 # Cargar preguntas y mantenerlas en sesión
 if "preguntas_random" not in st.session_state:
