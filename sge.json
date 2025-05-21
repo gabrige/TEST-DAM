@@ -1,0 +1,682 @@
+[
+  {
+    "pregunta": "¿Cuál es una característica clave de un ERP?",
+    "opciones": {
+      "A": "Gestión exclusiva de clientes",
+      "B": "Integración de datos y visión global",
+      "C": "Automatización de tareas administrativas sin datos",
+      "D": "Solo gestión de ventas"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué módulo de Odoo permite gestionar las ausencias del personal?",
+    "opciones": {
+      "A": "Facturación",
+      "B": "Ventas",
+      "C": "Ausencias",
+      "D": "E-commerce"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué base de datos utiliza Odoo?",
+    "opciones": {
+      "A": "MySQL",
+      "B": "Oracle",
+      "C": "PostgreSQL",
+      "D": "SQLite"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué función tiene un CRM en la empresa?",
+    "opciones": {
+      "A": "Gestionar la producción",
+      "B": "Gestionar relaciones con clientes",
+      "C": "Controlar el inventario",
+      "D": "Realizar análisis financiero"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué sistema ayuda a controlar el inventario y movimientos en almacén?",
+    "opciones": {
+      "A": "ERP",
+      "B": "CRM",
+      "C": "SGA",
+      "D": "BI"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función de la Gestión Electrónica de Documentos (GED)?",
+    "opciones": {
+      "A": "Gestión de relaciones con clientes",
+      "B": "Control y recuperación documental",
+      "C": "Gestión de inventarios",
+      "D": "Análisis financiero"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de análisis organiza los datos para identificar patrones secuenciales?",
+    "opciones": {
+      "A": "Comparativo",
+      "B": "Proyectivo",
+      "C": "Serialización",
+      "D": "Predictivo"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es un KPI en el contexto empresarial?",
+    "opciones": {
+      "A": "Key Performance Indicator, un indicador de rendimiento clave",
+      "B": "Knowledge Processing Index",
+      "C": "Key Product Identifier",
+      "D": "Known Process Issue"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué lenguaje se utiliza para definir interfaces y estructuras en Odoo?",
+    "opciones": {
+      "A": "HTML",
+      "B": "JSON",
+      "C": "XML",
+      "D": "YAML"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el principal beneficio de la centralización de información en un ERP?",
+    "opciones": {
+      "A": "Duplicidad de datos",
+      "B": "Eliminación de silos y consistencia de datos",
+      "C": "Mayor fragmentación de información",
+      "D": "Reducción del acceso a la información"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué técnica en Python se utiliza para extraer subconjuntos de datos mediante índices?",
+    "opciones": {
+      "A": "Slicing",
+      "B": "Looping",
+      "C": "Mapping",
+      "D": "Filtering"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué estructura de datos en Python es una colección no ordenada de elementos únicos?",
+    "opciones": {
+      "A": "Lista",
+      "B": "Tupla",
+      "C": "Conjunto (set)",
+      "D": "Diccionario"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método en Pandas permite eliminar filas con valores faltantes?",
+    "opciones": {
+      "A": "fillna()",
+      "B": "dropna()",
+      "C": "replace()",
+      "D": "drop_duplicates()"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué operador en Python se usa para comparaciones lógicas y condicionales?",
+    "opciones": {
+      "A": "+",
+      "B": "==",
+      "C": "and, or, not",
+      "D": "*"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función de un decorador en Python?",
+    "opciones": {
+      "A": "Crear funciones anónimas",
+      "B": "Modificar o extender la funcionalidad de otras funciones",
+      "C": "Ejecutar código condicionalmente",
+      "D": "Transformar tipos de datos"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un DataFrame en el análisis de datos?",
+    "opciones": {
+      "A": "Una tabla estructurada de filas y columnas para datos",
+      "B": "Una columna individual de datos",
+      "C": "Un archivo de texto plano",
+      "D": "Un tipo de gráfico"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué biblioteca de Python es adecuada para automatizar navegadores web?",
+    "opciones": {
+      "A": "Beautiful Soup",
+      "B": "Selenium",
+      "C": "Flask",
+      "D": "Django"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué entorno se usa para programar macros y VBA en Excel?",
+    "opciones": {
+      "A": "Visual Studio Code",
+      "B": "Visual Basic Editor (VBE)",
+      "C": "PyCharm",
+      "D": "NetBeans"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué estructura de control en VBA permite ejecutar un bloque de código varias veces mientras se cumple una condición?",
+    "opciones": {
+      "A": "If...Then...Else",
+      "B": "For...Next",
+      "C": "Do While",
+      "D": "Select Case"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué significa la sigla API en integración de sistemas?",
+    "opciones": {
+      "A": "Application Programming Interface",
+      "B": "Automated Process Integration",
+      "C": "Advanced Protocol Interface",
+      "D": "Application Process Interaction"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es middleware en la integración de sistemas?",
+    "opciones": {
+      "A": "Un tipo de hardware",
+      "B": "Software que conecta sistemas heterogéneos",
+      "C": "Un sistema operativo",
+      "D": "Un lenguaje de programación"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la gobernanza de datos?",
+    "opciones": {
+      "A": "Políticas y responsabilidades para la gestión de datos",
+      "B": "El almacenamiento de datos sin control",
+      "C": "Un tipo de base de datos",
+      "D": "Una técnica de análisis estadístico"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué proceso implica la verificación de integridad y coherencia de datos?",
+    "opciones": {
+      "A": "Validación",
+      "B": "Extracción",
+      "C": "Transformación",
+      "D": "Carga"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es una característica principal de los sistemas CRM?",
+    "opciones": {
+      "A": "Gestión de inventarios",
+      "B": "Seguimiento de leads y oportunidades",
+      "C": "Control de producción",
+      "D": "Análisis financiero"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación es fundamental para el desarrollo de aplicaciones web con Flask y Django?",
+    "opciones": {
+      "A": "Java",
+      "B": "Python",
+      "C": "PHP",
+      "D": "Ruby"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué técnica en análisis de datos permite eliminar duplicados en un DataFrame de Pandas?",
+    "opciones": {
+      "A": "dropna()",
+      "B": "replace()",
+      "C": "drop_duplicates()",
+      "D": "fillna()"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué significa la sigla SGA en sistemas empresariales?",
+    "opciones": {
+      "A": "Sistema de Gestión de Almacén",
+      "B": "Sistema General Administrativo",
+      "C": "Sistema de Gestión Avanzada",
+      "D": "Sistema de Gestión Analítico"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método en VBA permite desplazarse a una celda relativa a otra?",
+    "opciones": {
+      "A": "Select()",
+      "B": "Offset()",
+      "C": "Activate()",
+      "D": "Cells()"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de análisis comparativo?",
+    "opciones": {
+      "A": "Estimar ventas futuras basándose en tendencias",
+      "B": "Contrastar resultados entre departamentos en diferentes periodos",
+      "C": "Ordenar datos para detectar patrones secuenciales",
+      "D": "Crear modelos predictivos con datos estadísticos"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué se utiliza en Python para crear funciones pequeñas y anónimas?",
+    "opciones": {
+      "A": "def",
+      "B": "lambda",
+      "C": "class",
+      "D": "filter"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un DataFrame en Pandas?",
+    "opciones": {
+      "A": "Un tipo de gráfico",
+      "B": "Una serie individual de datos",
+      "C": "Una tabla bidimensional de datos con filas y columnas",
+      "D": "Un archivo de texto plano"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de licencia utiliza Odoo para su versión Community?",
+    "opciones": {
+      "A": "GPL",
+      "B": "MIT",
+      "C": "LGPL",
+      "D": "Propietaria"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el lenguaje principal para desarrollar módulos personalizados en Odoo?",
+    "opciones": {
+      "A": "JavaScript",
+      "B": "Java",
+      "C": "Python",
+      "D": "PHP"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta de control de versiones es comúnmente utilizada en proyectos de software?",
+    "opciones": {
+      "A": "Git",
+      "B": "SVN",
+      "C": "Mercurial",
+      "D": "FTP"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la función del módulo de contabilidad en un ERP?",
+    "opciones": {
+      "A": "Gestionar recursos humanos",
+      "B": "Registrar operaciones financieras",
+      "C": "Administrar ventas",
+      "D": "Controlar inventarios"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué significa la sigla BI en el contexto empresarial?",
+    "opciones": {
+      "A": "Business Intelligence",
+      "B": "Basic Integration",
+      "C": "Business Implementation",
+      "D": "Binary Interface"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de dato en Python permite almacenar pares clave-valor?",
+    "opciones": {
+      "A": "Lista",
+      "B": "Diccionario",
+      "C": "Tupla",
+      "D": "Set"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué librería de Python se usa para manipulación avanzada de datos?",
+    "opciones": {
+      "A": "NumPy",
+      "B": "Pandas",
+      "C": "Matplotlib",
+      "D": "Requests"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué función en VBA se usa para mostrar un mensaje al usuario?",
+    "opciones": {
+      "A": "MsgBox",
+      "B": "InputBox",
+      "C": "Print",
+      "D": "Alert"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de gráfico es ideal para mostrar evolución temporal de datos?",
+    "opciones": {
+      "A": "Gráfico de barras",
+      "B": "Gráfico circular",
+      "C": "Gráfico de líneas",
+      "D": "Histograma"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de un sistema ERP?",
+    "opciones": {
+      "A": "Automatizar procesos empresariales integrados",
+      "B": "Realizar análisis estadístico",
+      "C": "Gestionar bases de datos",
+      "D": "Crear páginas web"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de un Sistema de Gestión Empresarial (SGE)?",
+    "opciones": {
+      "A": "Automatizar únicamente los procesos de ventas",
+      "B": "Centralizar y aprovechar la información empresarial para una mejor toma de decisiones",
+      "C": "Reemplazar al personal administrativo",
+      "D": "Gestionar exclusivamente las relaciones con clientes"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Por qué se desarrollan softwares de SGE como Odoo, SAP, Meta4 y Salesforce?",
+    "opciones": {
+      "A": "Para aprovechar la información empresarial que se genera y facilitar la toma de decisiones basadas en datos",
+      "B": "Para reemplazar por completo la gestión humana",
+      "C": "Para reducir los costos únicamente en el departamento de ventas",
+      "D": "Para crear informes manuales"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un flujo de información empresarial?",
+    "opciones": {
+      "A": "Los datos que se generan en procesos habituales como ventas, facturación, pagos, etc.",
+      "B": "Una lista de empleados",
+      "C": "Un documento legal",
+      "D": "Un software de contabilidad"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de análisis de datos permite anticipar comportamientos futuros?",
+    "opciones": {
+      "A": "Análisis predictivo",
+      "B": "Análisis descriptivo",
+      "C": "Análisis comparativo",
+      "D": "Análisis histórico"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Por qué es crucial la calidad de la información en un SGE?",
+    "opciones": {
+      "A": "Porque permite un buen uso en la toma de decisiones mediante KPIs y dashboards",
+      "B": "Para almacenar muchos datos sin orden",
+      "C": "Porque no importa si los datos son erróneos",
+      "D": "Para tener información redundante"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa ERP?",
+    "opciones": {
+      "A": "Enterprise Resource Planning",
+      "B": "Enterprise Relationship Process",
+      "C": "Electronic Resource Program",
+      "D": "Enterprise Regulation Plan"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es una ventaja clave de implementar un ERP?",
+    "opciones": {
+      "A": "Agrupar todos los procesos empresariales en un único lugar",
+      "B": "Aumentar la burocracia",
+      "C": "Reducir la comunicación interna",
+      "D": "Crear silos de información"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué módulo no forma parte de un ERP típico?",
+    "opciones": {
+      "A": "Gestión documental",
+      "B": "Red social para empleados",
+      "C": "Gestión de ventas",
+      "D": "Gestión de almacén"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un CRM?",
+    "opciones": {
+      "A": "Un sistema para gestionar relaciones con clientes",
+      "B": "Un sistema para gestión financiera",
+      "C": "Un sistema para controlar producción",
+      "D": "Un sistema operativo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es una función típica de un CRM?",
+    "opciones": {
+      "A": "Seguimiento de la frecuencia de compra de clientes",
+      "B": "Controlar inventarios",
+      "C": "Gestionar nóminas",
+      "D": "Administrar bases de datos SQL"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál de estas NO es una función de un CRM?",
+    "opciones": {
+      "A": "Personalización de publicidad",
+      "B": "Gestión de campañas de marketing",
+      "C": "Control de calidad en producción",
+      "D": "Histórico de interacciones con clientes"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el lenguaje de programación usado en Odoo?",
+    "opciones": {
+      "A": "Python",
+      "B": "Java",
+      "C": "C++",
+      "D": "Ruby"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué sistema gestor de base de datos usa Odoo?",
+    "opciones": {
+      "A": "PostgreSQL",
+      "B": "MySQL",
+      "C": "Oracle",
+      "D": "SQL Server"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué estructura en Odoo define la lógica de negocio?",
+    "opciones": {
+      "A": "Models",
+      "B": "Views",
+      "C": "Controllers",
+      "D": "Schemas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué estructura de datos en Python es la más utilizada para datos tabulares en análisis de datos?",
+    "opciones": {
+      "A": "DataFrame de pandas",
+      "B": "Lista",
+      "C": "Diccionario",
+      "D": "Set"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué biblioteca de Python se utiliza para computación numérica avanzada con arrays?",
+    "opciones": {
+      "A": "NumPy",
+      "B": "Matplotlib",
+      "C": "Pandas",
+      "D": "Flask"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué función de pandas elimina filas con valores NaN?",
+    "opciones": {
+      "A": "dropna()",
+      "B": "fillna()",
+      "C": "replace()",
+      "D": "drop_duplicates()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué representa el KPI en gestión empresarial?",
+    "opciones": {
+      "A": "Indicador clave de rendimiento",
+      "B": "Key Process Indicator",
+      "C": "Knowledge Performance Index",
+      "D": "Key Programming Interface"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué representa el EBITDA?",
+    "opciones": {
+      "A": "Beneficio antes de intereses, impuestos, depreciación y amortización",
+      "B": "Ingresos netos después de impuestos",
+      "C": "Costos totales",
+      "D": "Deuda financiera"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la principal ventaja de usar arrays en NumPy?",
+    "opciones": {
+      "A": "Mayor eficiencia en operaciones matemáticas y manejo de datos multidimensionales",
+      "B": "Facilidad para almacenar texto",
+      "C": "Interfaz gráfica avanzada",
+      "D": "Gestión de bases de datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal del proceso ETL en gestión de datos?",
+    "opciones": {
+      "A": "Extraer, transformar y cargar datos para análisis",
+      "B": "Encriptar, traducir y listar datos",
+      "C": "Eliminar, transferir y listar datos",
+      "D": "Evaluar, tomar y lanzar datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa que Odoo es modular?",
+    "opciones": {
+      "A": "Que está compuesto por módulos temáticos que pueden añadirse o quitarse",
+      "B": "Que sólo tiene un módulo para todo",
+      "C": "Que no puede personalizarse",
+      "D": "Que es exclusivo para empresas pequeñas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una serie en pandas?",
+    "opciones": {
+      "A": "Una estructura de datos unidimensional etiquetada",
+      "B": "Una tabla bidimensional",
+      "C": "Una lista de Python",
+      "D": "Un diccionario"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cómo se accede a una columna específica de un DataFrame en pandas?",
+    "opciones": {
+      "A": "Usando df['nombre_columna']",
+      "B": "Usando df.columna()",
+      "C": "Usando df.getColumn()",
+      "D": "No se puede acceder directamente"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la ventaja de dividir un dataset en training y test?",
+    "opciones": {
+      "A": "Evaluar el rendimiento del modelo con datos no vistos",
+      "B": "Reducir el tamaño del dataset",
+      "C": "Aumentar la cantidad de datos para entrenamiento",
+      "D": "Optimizar el código"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un dataset en análisis de datos?",
+    "opciones": {
+      "A": "Conjunto de datos organizados para análisis",
+      "B": "Un gráfico de datos",
+      "C": "Una base de datos relacional",
+      "D": "Un programa"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál no es una fuente común de datasets?",
+    "opciones": {
+      "A": "Videos de entretenimiento",
+      "B": "Bases de datos públicas",
+      "C": "Sensores IoT",
+      "D": "Encuestas"
+    },
+    "respuesta_correcta": "A"
+  }
+]

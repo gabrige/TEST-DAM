@@ -1,0 +1,3002 @@
+[
+  {
+    "pregunta": "¿Cuál es el IDE oficial de Google para el desarrollo de aplicaciones Android?",
+    "opciones": {"A": "IntelliJ IDEA", "B": "Eclipse", "C": "Android Studio", "D": "Visual Studio Code"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué lenguaje recomienda Google para el desarrollo de nuevas aplicaciones Android?",
+    "opciones": {"A": "Java", "B": "C++", "C": "Kotlin", "D": "C#"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una limitación común en el desarrollo de aplicaciones móviles?",
+    "opciones": {"A": "Fragmentación de dispositivos", "B": "Limitaciones de hardware", "C": "Limitaciones de software", "D": "Conexión a internet ilimitada"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué sistema operativo móvil es desarrollado por Apple?",
+    "opciones": {"A": "Android", "B": "Windows Phone", "C": "iOS", "D": "Amazon Fire OS"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación se utiliza principalmente para desarrollar aplicaciones iOS?",
+    "opciones": {"A": "Java", "B": "Kotlin", "C": "Swift", "D": "C#"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es una aplicación híbrida?",
+    "opciones": {"A": "Una aplicación que solo funciona en tabletas", "B": "Una aplicación que combina características nativas y web", "C": "Una aplicación desarrollada con el lenguaje nativo de la plataforma", "D": "Una aplicación de escritorio adaptada para móviles"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un framework para el desarrollo de aplicaciones híbridas?",
+    "opciones": {"A": "Android Studio", "B": "Xcode", "C": "Xamarin", "D": "Visual Studio"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del SDK en el desarrollo de aplicaciones Android?",
+    "opciones": {"A": "Gestionar la memoria del dispositivo", "B": "Facilitar el desarrollo de aplicaciones con APIs", "C": "Optimizar el rendimiento de la batería", "D": "Administrar las conexiones de red"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente de Android controla el ciclo de vida de las actividades?",
+    "opciones": {"A": "View", "B": "ActivityManager", "C": "NotificationManager", "D": "ContentProvider"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el primer método que se llama en el ciclo de vida de una Activity en Android?",
+    "opciones": {"A": "onStart()", "B": "onResume()", "C": "onCreate()", "D": "onPause()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método se llama cuando la Activity deja de ser visible para el usuario?",
+    "opciones": {"A": "onPause()", "B": "onResume()", "C": "onStop()", "D": "onDestroy()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué fichero contiene los metadatos de una aplicación Android?",
+    "opciones": {"A": "build.gradle", "B": "AndroidManifest.xml", "C": "activity_main.xml", "D": "strings.xml"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es Gradle?",
+    "opciones": {"A": "Un lenguaje de programación", "B": "Un sistema operativo móvil", "C": "Una herramienta de automatización de la construcción", "D": "Un emulador de Android"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el requisito de memoria RAM recomendado para ejecutar Android Studio?",
+    "opciones": {"A": "2 GB", "B": "4 GB", "C": "8 GB", "D": "16 GB"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué función NO está disponible en el emulador de Android?",
+    "opciones": {"A": "Simular llamadas telefónicas", "B": "Acceder a la cámara", "C": "Simular la inserción/expulsión de tarjetas SD", "D": "Simular la conexión a internet"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es una AVD en el contexto de Android Studio?",
+    "opciones": {"A": "Android Virtual Device", "B": "Android Video Driver", "C": "Android Version Download", "D": "Android Variable Definition"},
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "Amazon Fire OS está basado en:",
+    "opciones": {"A": "iOS", "B": "Windows Phone", "C": "Android", "D": "Linux"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tienda de aplicaciones usa iOS?",
+    "opciones": {"A": "Google Play Store", "B": "Amazon Appstore", "C": "App Store", "D": "Samsung Galaxy Store"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En aplicaciones nativas de Android, ¿qué lenguaje recomienda usar Google?",
+    "opciones": {"A": "C++", "B": "Java", "C": "Python", "D": "Kotlin"},
+    "respuesta_correcta": "D"
+  },
+    {
+    "pregunta": "El método onSaveInstanceState se utiliza para:",
+    "opciones": {"A": "Iniciar la aplicación", "B": "Guardar datos importantes antes de que la actividad sea destruida", "C": "Pausar la aplicación", "D": "Destruir la aplicación"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el IDE oficial de Google para el desarrollo de aplicaciones Android?",
+    "opciones": {"A": "IntelliJ IDEA", "B": "Eclipse", "C": "Android Studio", "D": "Visual Studio Code"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué lenguaje recomienda Google para el desarrollo de nuevas aplicaciones Android?",
+    "opciones": {"A": "Java", "B": "C++", "C": "Kotlin", "D": "C#"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una limitación común en el desarrollo de aplicaciones móviles?",
+    "opciones": {"A": "Fragmentación de dispositivos", "B": "Limitaciones de hardware", "C": "Limitaciones de software", "D": "Conexión a internet ilimitada"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué sistema operativo móvil es desarrollado por Apple?",
+    "opciones": {"A": "Android", "B": "Windows Phone", "C": "iOS", "D": "Amazon Fire OS"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación se utiliza principalmente para desarrollar aplicaciones iOS?",
+    "opciones": {"A": "Java", "B": "Kotlin", "C": "Swift", "D": "C#"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es una aplicación híbrida?",
+    "opciones": {"A": "Una aplicación que solo funciona en tabletas", "B": "Una aplicación que combina características nativas y web", "C": "Una aplicación desarrollada con el lenguaje nativo de la plataforma", "D": "Una aplicación de escritorio adaptada para móviles"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un framework para el desarrollo de aplicaciones híbridas?",
+    "opciones": {"A": "Android Studio", "B": "Xcode", "C": "Xamarin", "D": "Visual Studio"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del SDK en el desarrollo de aplicaciones Android?",
+    "opciones": {"A": "Gestionar la memoria del dispositivo", "B": "Facilitar el desarrollo de aplicaciones con APIs", "C": "Optimizar el rendimiento de la batería", "D": "Administrar las conexiones de red"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente de Android controla el ciclo de vida de las actividades?",
+    "opciones": {"A": "View", "B": "ActivityManager", "C": "NotificationManager", "D": "ContentProvider"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el primer método que se llama en el ciclo de vida de una Activity en Android?",
+    "opciones": {"A": "onStart()", "B": "onResume()", "C": "onCreate()", "D": "onPause()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método se llama cuando la Activity deja de ser visible para el usuario?",
+    "opciones": {"A": "onPause()", "B": "onResume()", "C": "onStop()", "D": "onDestroy()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué fichero contiene los metadatos de una aplicación Android?",
+    "opciones": {"A": "build.gradle", "B": "AndroidManifest.xml", "C": "activity_main.xml", "D": "strings.xml"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es Gradle?",
+    "opciones": {"A": "Un lenguaje de programación", "B": "Un sistema operativo móvil", "C": "Una herramienta de automatización de la construcción", "D": "Un emulador de Android"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el requisito de memoria RAM recomendado para ejecutar Android Studio?",
+    "opciones": {"A": "2 GB", "B": "4 GB", "C": "8 GB", "D": "16 GB"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué función NO está disponible en el emulador de Android?",
+    "opciones": {"A": "Simular llamadas telefónicas", "B": "Acceder a la cámara", "C": "Simular la inserción/expulsión de tarjetas SD", "D": "Simular la conexión a internet"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es una AVD en el contexto de Android Studio?",
+    "opciones": {"A": "Android Virtual Device", "B": "Android Video Driver", "C": "Android Version Download", "D": "Android Variable Definition"},
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "Amazon Fire OS está basado en:",
+    "opciones": {"A": "iOS", "B": "Windows Phone", "C": "Android", "D": "Linux"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tienda de aplicaciones usa iOS?",
+    "opciones": {"A": "Google Play Store", "B": "Amazon Appstore", "C": "App Store", "D": "Samsung Galaxy Store"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En aplicaciones nativas de Android, ¿qué lenguaje recomienda usar Google?",
+    "opciones": {"A": "C++", "B": "Java", "C": "Python", "D": "Kotlin"},
+    "respuesta_correcta": "D"
+  },
+    {
+    "pregunta": "El método onSaveInstanceState se utiliza para:",
+    "opciones": {"A": "Iniciar la aplicación", "B": "Guardar datos importantes antes de que la actividad sea destruida", "C": "Pausar la aplicación", "D": "Destruir la aplicación"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿En qué año fue creado el lenguaje de programación Kotlin?",
+    "opciones": {"A": "2007", "B": "2010", "C": "2015", "D": "2020"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué empresa desarrolló Kotlin?",
+    "opciones": {"A": "Google", "B": "Microsoft", "C": "JetBrains", "D": "Oracle"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una ventaja de Kotlin sobre Java, según el texto?",
+    "opciones": {"A": "Seguro contra nulos", "B": "Ahorro de código", "C": "Características de programación funcional", "D": "Mayor compatibilidad con versiones antiguas de Android"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué símbolo se utiliza para indicar que una variable puede ser nula?",
+    "opciones": {"A": "!", "B": "#", "C": "?", "D": "$"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la palabra clave en Kotlin para declarar una variable cuyo valor no puede ser cambiado después de la asignación inicial?",
+    "opciones": {"A": "var", "B": "const", "C": "final", "D": "val"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "En Kotlin, ¿cómo se inicia un comentario de una sola línea?",
+    "opciones": {"A": "/*", "B": "//", "C": "<!--", "D": "--"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de dato en Kotlin se utiliza para almacenar valores booleanos (verdadero o falso)?",
+    "opciones": {"A": "Int", "B": "String", "C": "Boolean", "D": "Char"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de dato en Kotlin se utiliza para representar una secuencia de caracteres?",
+    "opciones": {"A": "Char", "B": "String", "C": "Int", "D": "Array"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué operador se utiliza para obtener el resto de una división entera?",
+    "opciones": {"A": "/", "B": "*", "C": "%", "D": "-"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la palabra clave en Kotlin para definir una función?",
+    "opciones": {"A": "def", "B": "function", "C": "fun", "D": "method"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, si una función no retorna ningún valor, ¿qué tipo de retorno se utiliza?",
+    "opciones": {"A": "Null", "B": "Void", "C": "Unit", "D": "Nothing"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué estructura de control condicional es análoga a la sentencia 'switch' de Java?",
+    "opciones": {"A": "if-else", "B": "for", "C": "while", "D": "when"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué palabra clave se usa en un bucle 'for' para recorrer un rango de valores en orden inverso?",
+    "opciones": {"A": "reverse", "B": "backwards", "C": "downTo", "D": "until"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué bloque se utiliza para capturar excepciones?",
+    "opciones": {"A": "try", "B": "catch", "C": "finally", "D": "except"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué palabra clave se utiliza para declarar una clase?",
+    "opciones": {"A": "object", "B": "struct", "C": "class", "D": "type"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué modificador de visibilidad hace que un miembro sea visible solo dentro del mismo módulo?",
+    "opciones": {"A": "private", "B": "protected", "C": "public", "D": "internal"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "En Kotlin, si no se define explícitamente un constructor, ¿qué tipo de constructor genera el compilador por defecto?",
+    "opciones": {"A": "Constructor con parámetros", "B": "Constructor privado", "C": "Constructor por defecto sin ningún parámetro", "D": "No genera ningún constructor"},
+    "respuesta_correcta": "C"
+  },
+    {
+    "pregunta": "En Kotlin, ¿qué palabra clave se usa para delegar a un constructor primario desde un constructor secundario?",
+    "opciones": {"A": "super", "B": "this", "C": "delegate", "D": "primary"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué modificador se debe añadir a la clase padre para permitir la herencia?",
+    "opciones": {"A": "final", "B": "static", "C": "open", "D": "abstract"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, ¿cómo se llama al operador que permite dar un valor predeterminado en caso de que la variable sea null?",
+    "opciones": {"A": "Operador ternario", "B": "Operador safe call", "C": "Operador Elvis", "D": "Operador nulo"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿En qué año fue creado el lenguaje de programación Kotlin?",
+    "opciones": {"A": "2007", "B": "2010", "C": "2015", "D": "2020"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué empresa desarrolló Kotlin?",
+    "opciones": {"A": "Google", "B": "Microsoft", "C": "JetBrains", "D": "Oracle"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una ventaja de Kotlin sobre Java, según el texto?",
+    "opciones": {"A": "Seguro contra nulos", "B": "Ahorro de código", "C": "Características de programación funcional", "D": "Mayor compatibilidad con versiones antiguas de Android"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué símbolo se utiliza para indicar que una variable puede ser nula?",
+    "opciones": {"A": "!", "B": "#", "C": "?", "D": "$"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la palabra clave en Kotlin para declarar una variable cuyo valor no puede ser cambiado después de la asignación inicial?",
+    "opciones": {"A": "var", "B": "const", "C": "final", "D": "val"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "En Kotlin, ¿cómo se inicia un comentario de una sola línea?",
+    "opciones": {"A": "/*", "B": "//", "C": "<!--", "D": "--"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de dato en Kotlin se utiliza para almacenar valores booleanos (verdadero o falso)?",
+    "opciones": {"A": "Int", "B": "String", "C": "Boolean", "D": "Char"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de dato en Kotlin se utiliza para representar una secuencia de caracteres?",
+    "opciones": {"A": "Char", "B": "String", "C": "Int", "D": "Array"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué operador se utiliza para obtener el resto de una división entera?",
+    "opciones": {"A": "/", "B": "*", "C": "%", "D": "-"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la palabra clave en Kotlin para definir una función?",
+    "opciones": {"A": "def", "B": "function", "C": "fun", "D": "method"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, si una función no retorna ningún valor, ¿qué tipo de retorno se utiliza?",
+    "opciones": {"A": "Null", "B": "Void", "C": "Unit", "D": "Nothing"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué estructura de control condicional es análoga a la sentencia 'switch' de Java?",
+    "opciones": {"A": "if-else", "B": "for", "C": "while", "D": "when"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué palabra clave se usa en un bucle 'for' para recorrer un rango de valores en orden inverso?",
+    "opciones": {"A": "reverse", "B": "backwards", "C": "downTo", "D": "until"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué bloque se utiliza para capturar excepciones?",
+    "opciones": {"A": "try", "B": "catch", "C": "finally", "D": "except"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué palabra clave se utiliza para declarar una clase?",
+    "opciones": {"A": "object", "B": "struct", "C": "class", "D": "type"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué modificador de visibilidad hace que un miembro sea visible solo dentro del mismo módulo?",
+    "opciones": {"A": "private", "B": "protected", "C": "public", "D": "internal"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "En Kotlin, si no se define explícitamente un constructor, ¿qué tipo de constructor genera el compilador por defecto?",
+    "opciones": {"A": "Constructor con parámetros", "B": "Constructor privado", "C": "Constructor por defecto sin ningún parámetro", "D": "No genera ningún constructor"},
+    "respuesta_correcta": "C"
+  },
+    {
+    "pregunta": "En Kotlin, ¿qué palabra clave se usa para delegar a un constructor primario desde un constructor secundario?",
+    "opciones": {"A": "super", "B": "this", "C": "delegate", "D": "primary"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En Kotlin, ¿qué modificador se debe añadir a la clase padre para permitir la herencia?",
+    "opciones": {"A": "final", "B": "static", "C": "open", "D": "abstract"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En Kotlin, ¿cómo se llama al operador que permite dar un valor predeterminado en caso de que la variable sea null?",
+    "opciones": {"A": "Operador ternario", "B": "Operador safe call", "C": "Operador Elvis", "D": "Operador nulo"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una herramienta proporcionada por Android Studio para el desarrollo de aplicaciones?",
+    "opciones": {"A": "Editor de código con autocompletado", "B": "Emuladores de dispositivos", "C": "Herramientas de diseño gráfico vectorial", "D": "Sistema de compilación Gradle"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación es preferido por Google para el desarrollo de Android, además de Java?",
+    "opciones": {"A": "C++", "B": "Python", "C": "Kotlin", "D": "Swift"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal de Jetpack Compose?",
+    "opciones": {"A": "Gestionar bases de datos", "B": "Simplificar el desarrollo de interfaces de usuario", "C": "Manejar solicitudes HTTP", "D": "Controlar versiones de código"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué plataforma de Google proporciona servicios backend como bases de datos en tiempo real y autenticación?",
+    "opciones": {"A": "Android Studio", "B": "Firebase", "C": "Git", "D": "Retrofit"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es Gradle en el contexto de Android Studio?",
+    "opciones": {"A": "Un lenguaje de programación", "B": "Una herramienta de control de versiones", "C": "Un sistema de compilación", "D": "Un emulador de dispositivos"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del Layout Editor en Android Studio?",
+    "opciones": {"A": "Escribir código Java", "B": "Gestionar dependencias del proyecto", "C": "Diseñar la interfaz de usuario visualmente", "D": "Depurar la aplicación"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta permite ver la jerarquía de vistas y layouts dentro del diseño de la interfaz en Android Studio?",
+    "opciones": {"A": "Palette", "B": "Component Tree", "C": "Preview", "D": "Theme Editor"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de layout es considerado el más avanzado y flexible en Android?",
+    "opciones": {"A": "LinearLayout", "B": "RelativeLayout", "C": "FrameLayout", "D": "ConstraintLayout"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué permite hacer la ventana de Previsualización (Preview) en Android Studio?",
+    "opciones": {"A": "Editar el código XML", "B": "Ver cómo se verá la interfaz en varios dispositivos", "C": "Gestionar la base de datos", "D": "Ejecutar la aplicación"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la función del Motion Editor en Android Studio?",
+    "opciones": {"A": "Gestionar temas y estilos", "B": "Crear animaciones complejas", "C": "Importar fuentes personalizadas", "D": "Inspeccionar la interfaz de usuario en ejecución"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué formato de archivo de gráficos vectoriales es compatible con Vector Asset Studio?",
+    "opciones": {"A": "PNG", "B": "JPEG", "C": "SVG", "D": "GIF"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué patrón de diseño se menciona para asegurar la escalabilidad y el mantenimiento del código?",
+    "opciones": {"A": "Singleton", "B": "Factory", "C": "MVC", "D": "Observer"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué archivo es crucial para definir los componentes de la aplicación, como Activities y Services?",
+    "opciones": {"A": "build.gradle", "B": "settings.gradle", "C": "AndroidManifest.xml", "D": "local.properties"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función de AAPT (Android Asset Packaging Tool)?",
+    "opciones": {"A": "Compilar código Java", "B": "Gestionar dependencias", "C": "Compilar y empaquetar recursos", "D": "Ejecutar la aplicación en el emulador"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es un archivo AAB (Android App Bundle)?",
+    "opciones": {"A": "Un archivo de configuración de Gradle", "B": "Un formato para distribuir aplicaciones Android que optimiza el tamaño de la aplicación", "C": "Un archivo de recursos de la aplicación", "D": "Un archivo de código fuente"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué herramienta se utiliza para comunicarse con dispositivos Android conectados por USB o red?",
+    "opciones": {"A": "AAPT", "B": "ART", "C": "ADB", "D": "DEX"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué clase representa una pantalla completa en una aplicación Android?",
+    "opciones": {"A": "View", "B": "Fragment", "C": "Activity", "D": "ViewModel"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué patrón de arquitectura utiliza el ViewModel como intermediario entre la interfaz de usuario (Vista) y los datos (Modelo)?", 
+    "opciones": {"A": "MVC", "B": "MVP", "C": "MVVM", "D": "Singleton"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta de registro en tiempo real muestra mensajes generados por el sistema Android y las aplicaciones en ejecución?", 
+    "opciones": {"A": "Android Profiler", "B": "Layout Inspector", "C": "Logcat", "D": "Lint"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta de Android Studio permite medir y optimizar la utilización de recursos como CPU, memoria y red?",
+    "opciones": {"A": "Logcat", "B": "Debugger", "C": "Android Profiler", "D": "Layout Inspector"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una herramienta proporcionada por Android Studio para el desarrollo de aplicaciones?",
+    "opciones": {"A": "Editor de código con autocompletado", "B": "Emuladores de dispositivos", "C": "Herramientas de diseño gráfico vectorial", "D": "Sistema de compilación Gradle"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación es preferido por Google para el desarrollo de Android, además de Java?",
+    "opciones": {"A": "C++", "B": "Python", "C": "Kotlin", "D": "Swift"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal de Jetpack Compose?",
+    "opciones": {"A": "Gestionar bases de datos", "B": "Simplificar el desarrollo de interfaces de usuario", "C": "Manejar solicitudes HTTP", "D": "Controlar versiones de código"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué plataforma de Google proporciona servicios backend como bases de datos en tiempo real y autenticación?",
+    "opciones": {"A": "Android Studio", "B": "Firebase", "C": "Git", "D": "Retrofit"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es Gradle en el contexto de Android Studio?",
+    "opciones": {"A": "Un lenguaje de programación", "B": "Una herramienta de control de versiones", "C": "Un sistema de compilación", "D": "Un emulador de dispositivos"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del Layout Editor en Android Studio?",
+    "opciones": {"A": "Escribir código Java", "B": "Gestionar dependencias del proyecto", "C": "Diseñar la interfaz de usuario visualmente", "D": "Depurar la aplicación"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta permite ver la jerarquía de vistas y layouts dentro del diseño de la interfaz en Android Studio?",
+    "opciones": {"A": "Palette", "B": "Component Tree", "C": "Preview", "D": "Theme Editor"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de layout es considerado el más avanzado y flexible en Android?",
+    "opciones": {"A": "LinearLayout", "B": "RelativeLayout", "C": "FrameLayout", "D": "ConstraintLayout"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué permite hacer la ventana de Previsualización (Preview) en Android Studio?",
+    "opciones": {"A": "Editar el código XML", "B": "Ver cómo se verá la interfaz en varios dispositivos", "C": "Gestionar la base de datos", "D": "Ejecutar la aplicación"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la función del Motion Editor en Android Studio?",
+    "opciones": {"A": "Gestionar temas y estilos", "B": "Crear animaciones complejas", "C": "Importar fuentes personalizadas", "D": "Inspeccionar la interfaz de usuario en ejecución"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué formato de archivo de gráficos vectoriales es compatible con Vector Asset Studio?",
+    "opciones": {"A": "PNG", "B": "JPEG", "C": "SVG", "D": "GIF"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué patrón de diseño se menciona para asegurar la escalabilidad y el mantenimiento del código?",
+    "opciones": {"A": "Singleton", "B": "Factory", "C": "MVC", "D": "Observer"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué archivo es crucial para definir los componentes de la aplicación, como Activities y Services?",
+    "opciones": {"A": "build.gradle", "B": "settings.gradle", "C": "AndroidManifest.xml", "D": "local.properties"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función de AAPT (Android Asset Packaging Tool)?",
+    "opciones": {"A": "Compilar código Java", "B": "Gestionar dependencias", "C": "Compilar y empaquetar recursos", "D": "Ejecutar la aplicación en el emulador"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es un archivo AAB (Android App Bundle)?",
+    "opciones": {"A": "Un archivo de configuración de Gradle", "B": "Un formato para distribuir aplicaciones Android que optimiza el tamaño de la aplicación", "C": "Un archivo de recursos de la aplicación", "D": "Un archivo de código fuente"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué herramienta se utiliza para comunicarse con dispositivos Android conectados por USB o red?",
+    "opciones": {"A": "AAPT", "B": "ART", "C": "ADB", "D": "DEX"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué clase representa una pantalla completa en una aplicación Android?",
+    "opciones": {"A": "View", "B": "Fragment", "C": "Activity", "D": "ViewModel"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué patrón de arquitectura utiliza el ViewModel como intermediario entre la interfaz de usuario (Vista) y los datos (Modelo)?", 
+    "opciones": {"A": "MVC", "B": "MVP", "C": "MVVM", "D": "Singleton"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta de registro en tiempo real muestra mensajes generados por el sistema Android y las aplicaciones en ejecución?", 
+    "opciones": {"A": "Android Profiler", "B": "Layout Inspector", "C": "Logcat", "D": "Lint"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta de Android Studio permite medir y optimizar la utilización de recursos como CPU, memoria y red?",
+    "opciones": {"A": "Logcat", "B": "Debugger", "C": "Android Profiler", "D": "Layout Inspector"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo del Tema 4?",
+    "opciones": {
+      "A": "Desarrollar aplicaciones móviles usando XML.",
+      "B": "Introducir el desarrollo de interfaces de usuario declarativas con Jetpack Compose.",
+      "C": "Analizar el uso de APIs de Android.",
+      "D": "Optimizar el rendimiento de aplicaciones en dispositivos móviles."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación se utiliza principalmente en Jetpack Compose?",
+    "opciones": {
+      "A": "Java",
+      "B": "C++",
+      "C": "Kotlin",
+      "D": "Python"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es una 'composable' en Jetpack Compose?",
+    "opciones": {
+      "A": "Un archivo XML que define la interfaz de usuario.",
+      "B": "Una función anotada con @Composable que describe una parte de la interfaz gráfica.",
+      "C": "Una clase Java utilizada para controlar eventos de la UI.",
+      "D": "Una herramienta de depuración en Android Studio."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué permiten los 'modificadores' en Jetpack Compose?",
+    "opciones": {
+      "A": "Definir la estructura básica de la interfaz de usuario.",
+      "B": "Acceder a los datos de la base de datos.",
+      "C": "Ajustar la apariencia y comportamiento de las composables.",
+      "D": "Manejar eventos de clic en los botones."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de layout organiza los elementos horizontalmente en Jetpack Compose?",
+    "opciones": {
+      "A": "Column",
+      "B": "Box",
+      "C": "Row",
+      "D": "ConstraintLayout"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de 'LazyColumn' en Jetpack Compose?",
+    "opciones": {
+      "A": "Organizar elementos en una tabla.",
+      "B": "Mostrar elementos en una columna, cargándolos de manera eficiente.",
+      "C": "Crear una ventana emergente.",
+      "D": "Animar la transición entre pantallas."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué significa el término 'estado' en Jetpack Compose?",
+    "opciones": {
+      "A": "El diseño visual de la aplicación.",
+      "B": "Cualquier dato que controla o influye en la representación de la UI.",
+      "C": "La versión de Android utilizada.",
+      "D": "El nivel de batería del dispositivo."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué función se utiliza generalmente para declarar el estado en Jetpack Compose?",
+    "opciones": {
+      "A": "useState()",
+      "B": "remember()",
+      "C": "setState()",
+      "D": "mutableState()"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es 'rememberSaveable' en Jetpack Compose?",
+    "opciones": {
+      "A": "Una función para recordar el estado localmente.",
+      "B": "Una función para guardar datos en una base de datos.",
+      "C": "Una función que recuerda el estado incluso si el composable se destruye temporalmente.",
+      "D": "Una función para animar un componente."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el principio del 'flujo de datos unidireccional' en Jetpack Compose?",
+    "opciones": {
+      "A": "Los datos fluyen en ambas direcciones entre los composables padre e hijo.",
+      "B": "Los datos fluyen en una sola dirección: desde los composables padres hacia los hijos.",
+      "C": "Los datos se almacenan localmente en cada composable.",
+      "D": "No hay flujo de datos entre composables."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente de Jetpack Compose se utiliza para mostrar texto en la pantalla?",
+    "opciones": {
+      "A": "Button",
+      "B": "Image",
+      "C": "Text",
+      "D": "Card"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué atributo principal de un componente 'Button' define la acción que se ejecuta cuando se presiona el botón?",
+    "opciones": {
+      "A": "text",
+      "B": "onClick",
+      "C": "content",
+      "D": "enabled"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del componente 'Card' en Jetpack Compose?",
+    "opciones": {
+      "A": "Mostrar una imagen.",
+      "B": "Mostrar un texto formateado.",
+      "C": "Mostrar contenido con un fondo y sombra.",
+      "D": "Crear un campo de entrada de texto."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el componente que permite construir la estructura básica de una pantalla, como una barra superior, el cuerpo de la pantalla y una barra inferior?",
+    "opciones": {
+      "A": "Slider",
+      "B": "Card",
+      "C": "TextField",
+      "D": "Scaffold"
+    },
+    "respuesta_correcta": "D"
+  },
+    {
+    "pregunta": "¿Cuál de las siguientes NO es una ventaja de Jetpack Compose?",
+    "opciones": {
+      "A": "Desarrollo más rápido",
+      "B": "Mayor cantidad de código boilerplate",
+      "C": "Facilidad para realizar animaciones",
+      "D": "Alineado con el ciclo de vida de Android"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el modificador 'fillMaxSize()'?",
+    "opciones": {
+      "A": "Establece un tamaño fijo para el composable.",
+      "B": "Hace que el composable llene todo el espacio disponible.",
+      "C": "Añade espacio alrededor del composable.",
+      "D": "Alinea el composable dentro de un contenedor."
+    },
+    "respuesta_correcta": "B"
+  },
+    {
+    "pregunta": "¿Cuál es el nombre del proyecto de Jetbrains que permite crear interfaces de usuario en diferentes plataformas?",
+    "opciones": {
+      "A": "Kotlin Native",
+      "B": "Compose Desktop",
+      "C": "Kotlin Multiplatform",
+      "D": "Jetpack Compose for Web"
+    },
+    "respuesta_correcta": "C"
+  },
+    {
+    "pregunta": "¿Cuál es el Layout que permite superponer elementos uno encima de otro?",
+    "opciones": {
+      "A": "Row",
+      "B": "Column",
+      "C": "Box",
+      "D": "ConstraintLayout"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué permite el componente 'Slider'?",
+    "opciones": {
+      "A": "Mostrar texto largo en un espacio limitado",
+      "B": "Mostrar una lista de opciones",
+      "C": "Seleccionar un valor dentro de un rango mediante un control deslizante",
+      "D": "Crear una animación simple"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Para que se utiliza la función 'createRefs()' en un ConstrainLayout?",
+    "opciones": {
+      "A": "Para crear un nuevo ConstraintLayout",
+      "B": "Para definir el tamaño de los elementos",
+      "C": "Para crear las referencias a los elementos del ConstraintLayout",
+      "D": "Para crear las animaciones de los elementos"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo del Tema 4?",
+    "opciones": {
+      "A": "Desarrollar aplicaciones móviles usando XML.",
+      "B": "Introducir el desarrollo de interfaces de usuario declarativas con Jetpack Compose.",
+      "C": "Analizar el uso de APIs de Android.",
+      "D": "Optimizar el rendimiento de aplicaciones en dispositivos móviles."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación se utiliza principalmente en Jetpack Compose?",
+    "opciones": {
+      "A": "Java",
+      "B": "C++",
+      "C": "Kotlin",
+      "D": "Python"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es una 'composable' en Jetpack Compose?",
+    "opciones": {
+      "A": "Un archivo XML que define la interfaz de usuario.",
+      "B": "Una función anotada con @Composable que describe una parte de la interfaz gráfica.",
+      "C": "Una clase Java utilizada para controlar eventos de la UI.",
+      "D": "Una herramienta de depuración en Android Studio."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué permiten los 'modificadores' en Jetpack Compose?",
+    "opciones": {
+      "A": "Definir la estructura básica de la interfaz de usuario.",
+      "B": "Acceder a los datos de la base de datos.",
+      "C": "Ajustar la apariencia y comportamiento de las composables.",
+      "D": "Manejar eventos de clic en los botones."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de layout organiza los elementos horizontalmente en Jetpack Compose?",
+    "opciones": {
+      "A": "Column",
+      "B": "Box",
+      "C": "Row",
+      "D": "ConstraintLayout"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de 'LazyColumn' en Jetpack Compose?",
+    "opciones": {
+      "A": "Organizar elementos en una tabla.",
+      "B": "Mostrar elementos en una columna, cargándolos de manera eficiente.",
+      "C": "Crear una ventana emergente.",
+      "D": "Animar la transición entre pantallas."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué significa el término 'estado' en Jetpack Compose?",
+    "opciones": {
+      "A": "El diseño visual de la aplicación.",
+      "B": "Cualquier dato que controla o influye en la representación de la UI.",
+      "C": "La versión de Android utilizada.",
+      "D": "El nivel de batería del dispositivo."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué función se utiliza generalmente para declarar el estado en Jetpack Compose?",
+    "opciones": {
+      "A": "useState()",
+      "B": "remember()",
+      "C": "setState()",
+      "D": "mutableState()"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es 'rememberSaveable' en Jetpack Compose?",
+    "opciones": {
+      "A": "Una función para recordar el estado localmente.",
+      "B": "Una función para guardar datos en una base de datos.",
+      "C": "Una función que recuerda el estado incluso si el composable se destruye temporalmente.",
+      "D": "Una función para animar un componente."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el principio del 'flujo de datos unidireccional' en Jetpack Compose?",
+    "opciones": {
+      "A": "Los datos fluyen en ambas direcciones entre los composables padre e hijo.",
+      "B": "Los datos fluyen en una sola dirección: desde los composables padres hacia los hijos.",
+      "C": "Los datos se almacenan localmente en cada composable.",
+      "D": "No hay flujo de datos entre composables."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente de Jetpack Compose se utiliza para mostrar texto en la pantalla?",
+    "opciones": {
+      "A": "Button",
+      "B": "Image",
+      "C": "Text",
+      "D": "Card"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué atributo principal de un componente 'Button' define la acción que se ejecuta cuando se presiona el botón?",
+    "opciones": {
+      "A": "text",
+      "B": "onClick",
+      "C": "content",
+      "D": "enabled"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del componente 'Card' en Jetpack Compose?",
+    "opciones": {
+      "A": "Mostrar una imagen.",
+      "B": "Mostrar un texto formateado.",
+      "C": "Mostrar contenido con un fondo y sombra.",
+      "D": "Crear un campo de entrada de texto."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el componente que permite construir la estructura básica de una pantalla, como una barra superior, el cuerpo de la pantalla y una barra inferior?",
+    "opciones": {
+      "A": "Slider",
+      "B": "Card",
+      "C": "TextField",
+      "D": "Scaffold"
+    },
+    "respuesta_correcta": "D"
+  },
+    {
+    "pregunta": "¿Cuál de las siguientes NO es una ventaja de Jetpack Compose?",
+    "opciones": {
+      "A": "Desarrollo más rápido",
+      "B": "Mayor cantidad de código boilerplate",
+      "C": "Facilidad para realizar animaciones",
+      "D": "Alineado con el ciclo de vida de Android"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el modificador 'fillMaxSize()'?",
+    "opciones": {
+      "A": "Establece un tamaño fijo para el composable.",
+      "B": "Hace que el composable llene todo el espacio disponible.",
+      "C": "Añade espacio alrededor del composable.",
+      "D": "Alinea el composable dentro de un contenedor."
+    },
+    "respuesta_correcta": "B"
+  },
+    {
+    "pregunta": "¿Cuál es el nombre del proyecto de Jetbrains que permite crear interfaces de usuario en diferentes plataformas?",
+    "opciones": {
+      "A": "Kotlin Native",
+      "B": "Compose Desktop",
+      "C": "Kotlin Multiplatform",
+      "D": "Jetpack Compose for Web"
+    },
+    "respuesta_correcta": "C"
+  },
+    {
+    "pregunta": "¿Cuál es el Layout que permite superponer elementos uno encima de otro?",
+    "opciones": {
+      "A": "Row",
+      "B": "Column",
+      "C": "Box",
+      "D": "ConstraintLayout"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué permite el componente 'Slider'?",
+    "opciones": {
+      "A": "Mostrar texto largo en un espacio limitado",
+      "B": "Mostrar una lista de opciones",
+      "C": "Seleccionar un valor dentro de un rango mediante un control deslizante",
+      "D": "Crear una animación simple"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Para que se utiliza la función 'createRefs()' en un ConstrainLayout?",
+    "opciones": {
+      "A": "Para crear un nuevo ConstraintLayout",
+      "B": "Para definir el tamaño de los elementos",
+      "C": "Para crear las referencias a los elementos del ConstraintLayout",
+      "D": "Para crear las animaciones de los elementos"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la principal función de un Service en Android?",
+    "opciones": {"A": "Proporcionar una interfaz de usuario interactiva", "B": "Ejecutar operaciones de larga duración en segundo plano", "C": "Gestionar la interfaz de usuario de la aplicación", "D": "Almacenar datos de configuración de la aplicación"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué diferencia fundamental existe entre una Activity y un Service?",
+    "opciones": {"A": "Una Activity se ejecuta en segundo plano, mientras que un Service se ejecuta en primer plano.", "B": "Una Activity está ligada a una interfaz de usuario, mientras que un Service no.", "C": "Una Activity se utiliza para operaciones de corta duración, mientras que un Service se utiliza para operaciones de larga duración.", "D": "Una Activity es un componente principal de la aplicación, mientras que un Service es un componente opcional."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de Service en Android?",
+    "opciones": {"A": "Foreground", "B": "Background", "C": "Bound", "D": "Overlay"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué método de llamada de retorno se invoca cuando otro componente solicita que se inicie el servicio?",
+    "opciones": {"A": "onBind()", "B": "onCreate()", "C": "onStartCommand()", "D": "onDestroy()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método se debe implementar para proporcionar una interfaz para que los clientes se comuniquen con un servicio vinculado?",
+    "opciones": {"A": "onStartCommand()", "B": "onBind()", "C": "onCreate()", "D": "onDestroy()"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cómo se detiene un servicio iniciado con startService()?",
+    "opciones": {"A": "Llamando a finishService()", "B": "Llamando a stopActivity()", "C": "Llamando a stopSelf() o stopService()", "D": "El sistema lo detiene automáticamente."},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una opción de almacenamiento de datos en Android?",
+    "opciones": {"A": "SharedPreferences", "B": "Almacenamiento interno", "C": "Almacenamiento externo", "D": "Variables globales"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué tipo de datos se almacenan en SharedPreferences?",
+    "opciones": {"A": "Datos de cualquier tipo", "B": "Datos primitivos en pares clave-valor", "C": "Datos estructurados en formato JSON", "D": "Archivos binarios"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre getSharedPreferences() y getPreferences()?",
+    "opciones": {"A": "getSharedPreferences() se usa para el almacenamiento interno y getPreferences() para el externo.", "B": "getSharedPreferences() se usa para múltiples archivos de preferencias compartidas y getPreferences() para un archivo predeterminado de una Activity.", "C": "getSharedPreferences() se usa para datos públicos y getPreferences() para datos privados.", "D": "No hay diferencia, ambos hacen lo mismo."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la principal diferencia entre el almacenamiento interno y externo?",
+    "opciones": {"A": "El almacenamiento interno es más rápido que el externo.", "B": "El almacenamiento interno está siempre disponible, mientras que el externo puede no estarlo.", "C": "El almacenamiento interno es accesible por todas las aplicaciones, mientras que el externo solo por la aplicación propietaria.", "D": "No hay diferencia, son términos intercambiables."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué biblioteca proporciona una capa de abstracción sobre SQLite en Android?",
+    "opciones": {"A": "SQLiteHelper", "B": "Room", "C": "ContentProvider", "D": "SharedPreferences"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un componente principal de Room?",
+    "opciones": {"A": "Clase de base de datos", "B": "Entidades de datos", "C": "Objetos de acceso a datos (DAOs)", "D": "Services"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué anotación se utiliza para definir una entidad de datos en Room?",
+    "opciones": {"A": "@Table", "B": "@Entity", "C": "@Column", "D": "@Database"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué son las corrutinas?",
+    "opciones": {"A": "Un nuevo lenguaje de programación para Android.", "B": "Un patrón de diseño de simultaneidad para simplificar el código asíncrono.", "C": "Una biblioteca para la gestión de bases de datos.", "D": "Un tipo de servicio en Android."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la función de los Dispatchers en las corrutinas?",
+    "opciones": {"A": "Gestionar la interfaz de usuario.", "B": "Especificar el hilo o hilos utilizados por la corrutina.", "C": "Definir el tiempo de vida de la corrutina.", "D": "Crear nuevas corrutinas."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes Dispatchers se utiliza para tareas que bloquean el hilo mientras esperan una respuesta?",
+    "opciones": {"A": "Default", "B": "IO", "C": "Main", "D": "Unconfined"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes builders de corrutinas bloquea el hilo actual hasta que se terminen todas las tareas?",
+    "opciones": {"A": "launch", "B": "async", "C": "runBlocking", "D": "CoroutineScope"},
+    "respuesta_correcta": "C"
+  },
+    {
+    "pregunta": "¿Qué protocolo se utiliza para la comunicación con dispositivos Bluetooth de bajo consumo (BLE)?",
+    "opciones": {"A": "Bluetooth Clásico", "B": "Bluetooth Low Energy (BLE)", "C": "USB OTG", "D": "Wi-Fi Direct"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué API de Android se utiliza para la búsqueda de servicios en redes locales?",
+    "opciones": {"A": "BluetoothAdapter", "B": "UsbManager", "C": "NsdManager", "D": "WifiP2pManager"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué formato se utiliza para especificar el tipo de servicio a buscar con la API de Network Service Discovery (NSD)?",
+    "opciones": {"A": "_service-type_protocol", "B": "_service-type._protocol", "C": "service-type.protocol", "D": "service_type.protocol"},      
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la principal función de un Service en Android?",
+    "opciones": {"A": "Proporcionar una interfaz de usuario interactiva", "B": "Ejecutar operaciones de larga duración en segundo plano", "C": "Gestionar la interfaz de usuario de la aplicación", "D": "Almacenar datos de configuración de la aplicación"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué diferencia fundamental existe entre una Activity y un Service?",
+    "opciones": {"A": "Una Activity se ejecuta en segundo plano, mientras que un Service se ejecuta en primer plano.", "B": "Una Activity está ligada a una interfaz de usuario, mientras que un Service no.", "C": "Una Activity se utiliza para operaciones de corta duración, mientras que un Service se utiliza para operaciones de larga duración.", "D": "Una Activity es un componente principal de la aplicación, mientras que un Service es un componente opcional."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de Service en Android?",
+    "opciones": {"A": "Foreground", "B": "Background", "C": "Bound", "D": "Overlay"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué método de llamada de retorno se invoca cuando otro componente solicita que se inicie el servicio?",
+    "opciones": {"A": "onBind()", "B": "onCreate()", "C": "onStartCommand()", "D": "onDestroy()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método se debe implementar para proporcionar una interfaz para que los clientes se comuniquen con un servicio vinculado?",  
+    "opciones": {"A": "onStartCommand()", "B": "onBind()", "C": "onCreate()", "D": "onDestroy()"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cómo se detiene un servicio iniciado con startService()?",
+    "opciones": {"A": "Llamando a finishService()", "B": "Llamando a stopActivity()", "C": "Llamando a stopSelf() o stopService()", "D": "El sistema lo detiene automáticamente."},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una opción de almacenamiento de datos en Android?",
+    "opciones": {"A": "SharedPreferences", "B": "Almacenamiento interno", "C": "Almacenamiento externo", "D": "Variables globales"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué tipo de datos se almacenan en SharedPreferences?",
+    "opciones": {"A": "Datos de cualquier tipo", "B": "Datos primitivos en pares clave-valor", "C": "Datos estructurados en formato JSON", "D": "Archivos binarios"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre getSharedPreferences() y getPreferences()?",
+    "opciones": {"A": "getSharedPreferences() se usa para el almacenamiento interno y getPreferences() para el externo.", "B": "getSharedPreferences() se usa para múltiples archivos de preferencias compartidas y getPreferences() para un archivo predeterminado de una Activity.", "C": "getSharedPreferences() se usa para datos públicos y getPreferences() para datos privados.", "D": "No hay diferencia, ambos hacen lo mismo."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la principal diferencia entre el almacenamiento interno y externo?",
+    "opciones": {"A": "El almacenamiento interno es más rápido que el externo.", "B": "El almacenamiento interno está siempre disponible, mientras que el externo puede no estarlo.", "C": "El almacenamiento interno es accesible por todas las aplicaciones, mientras que el externo solo por la aplicación propietaria.", "D": "No hay diferencia, son términos intercambiables."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué biblioteca proporciona una capa de abstracción sobre SQLite en Android?",
+    "opciones": {"A": "SQLiteHelper", "B": "Room", "C": "ContentProvider", "D": "SharedPreferences"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un componente principal de Room?",
+    "opciones": {"A": "Clase de base de datos", "B": "Entidades de datos", "C": "Objetos de acceso a datos (DAOs)", "D": "Services"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué anotación se utiliza para definir una entidad de datos en Room?",
+    "opciones": {"A": "@Table", "B": "@Entity", "C": "@Column", "D": "@Database"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué son las corrutinas?",
+    "opciones": {"A": "Un nuevo lenguaje de programación para Android.", "B": "Un patrón de diseño de simultaneidad para simplificar el código asíncrono.", "C": "Una biblioteca para la gestión de bases de datos.", "D": "Un tipo de servicio en Android."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la función de los Dispatchers en las corrutinas?",
+    "opciones": {"A": "Gestionar la interfaz de usuario.", "B": "Especificar el hilo o hilos utilizados por la corrutina.", "C": "Definir el tiempo de vida de la corrutina.", "D": "Crear nuevas corrutinas."},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes Dispatchers se utiliza para tareas que bloquean el hilo mientras esperan una respuesta?",
+    "opciones": {"A": "Default", "B": "IO", "C": "Main", "D": "Unconfined"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes builders de corrutinas bloquea el hilo actual hasta que se terminen todas las tareas?",
+    "opciones": {"A": "launch", "B": "async", "C": "runBlocking", "D": "CoroutineScope"},
+    "respuesta_correcta": "C"
+  },
+    {
+    "pregunta": "¿Qué protocolo se utiliza para la comunicación con dispositivos Bluetooth de bajo consumo (BLE)?",
+    "opciones": {"A": "Bluetooth Clásico", "B": "Bluetooth Low Energy (BLE)", "C": "USB OTG", "D": "Wi-Fi Direct"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué API de Android se utiliza para la búsqueda de servicios en redes locales?",
+    "opciones": {"A": "BluetoothAdapter", "B": "UsbManager", "C": "NsdManager", "D": "WifiP2pManager"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué formato se utiliza para especificar el tipo de servicio a buscar con la API de Network Service Discovery (NSD)?",
+    "opciones": {"A": "_service-type_protocol", "B": "_service-type._protocol", "C": "service-type.protocol", "D": "service_type.protocol"},      
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo del tema?",
+    "opciones": {
+      "A": "Desarrollar juegos complejos en Android Studio",
+      "B": "Establecer una comunicación eficiente entre cliente y servidor en aplicaciones móviles",
+      "C": "Diseñar interfaces de usuario atractivas",
+      "D": "Optimizar el rendimiento de la batería en dispositivos móviles"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un cliente en la arquitectura cliente-servidor?",
+    "opciones": {
+      "A": "El programa que almacena los datos",
+      "B": "El programa que responde a las solicitudes",
+      "C": "El programa que solicita información",
+      "D": "El programa que administra la red"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de petición HTTP?",
+    "opciones": {
+      "A": "GET",
+      "B": "POST",
+      "C": "UPDATE",
+      "D": "DELETE"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué formato de datos es más comúnmente utilizado en la transferencia de información entre plataformas?",
+    "opciones": {
+      "A": "XML",
+      "B": "JSON",
+      "C": "HTML",
+      "D": "CSV"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una característica principal de una API REST?",
+    "opciones": {
+      "A": "Arquitectura basada en recursos",
+      "B": "Uso de cookies para mantener el estado",
+      "C": "Operaciones estándar del protocolo HTTP",
+      "D": "Stateless (Sin Estado)"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la API nativa de Java para realizar solicitudes HTTP en Android?",
+    "opciones": {
+      "A": "OkHttp",
+      "B": "Retrofit",
+      "C": "HttpURLConnection",
+      "D": "Gson"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué librería simplifica enormemente la comunicación con APIs RESTful y es la más utilizada actualmente?",
+    "opciones": {
+      "A": "HttpURLConnection",
+      "B": "OkHttp",
+      "C": "Retrofit",
+      "D": "Gson"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué anotación se utiliza en Retrofit para especificar el método HTTP GET?",
+    "opciones": {
+      "A": "@POST",
+      "B": "@PUT",
+      "C": "@DELETE",
+      "D": "@GET"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué clase se utiliza en Android para enviar mensajes SMS?",
+    "opciones": {
+      "A": "SmsReceiver",
+      "B": "TelephonyManager",
+      "C": "SmsManager",
+      "D": "BroadcastReceiver"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué permiso es necesario declarar en AndroidManifest.xml para poder enviar SMS?",
+    "opciones": {
+      "A": "android.permission.RECEIVE_SMS",
+      "B": "android.permission.READ_SMS",
+      "C": "android.permission.SEND_SMS",
+      "D": "android.permission.ACCESS_FINE_LOCATION"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué componente se utiliza para recibir mensajes SMS entrantes en Android?",
+    "opciones": {
+      "A": "SmsManager",
+      "B": "Activity",
+      "C": "BroadcastReceiver",
+      "D": "Service"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es un Toast en Android?",
+    "opciones": {
+      "A": "Un tipo de base de datos",
+      "B": "Un mensaje que se muestra en pantalla durante unos segundos",
+      "C": "Un diálogo interactivo",
+      "D": "Una notificación persistente"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué método de la clase Toast se utiliza para mostrar el mensaje en pantalla?",
+    "opciones": {
+      "A": "makeText()",
+      "B": "show()",
+      "C": "setGravity()",
+      "D": "inflate()"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la superclase de la que deben heredar los diálogos en Android?",
+    "opciones": {
+      "A": "Activity",
+      "B": "View",
+      "C": "DialogFragment",
+      "D": "BroadcastReceiver"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método se debe sobrescribir para construir un diálogo?",
+    "opciones": {
+      "A": "onCreateView()",
+      "B": "onStart()",
+      "C": "onCreateDialog()",
+      "D": "onResponse()"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de permisos se otorgan automáticamente al instalar una aplicación?",
+    "opciones": {
+      "A": "Permisos Sensibles",
+      "B": "Permisos Especiales",
+      "C": "Permisos Normales",
+      "D": "Todos los permisos"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Desde qué versión de Android se introdujeron los permisos en tiempo de ejecución?",
+    "opciones": {
+      "A": "Android 4.4 (API 19)",
+      "B": "Android 5.0 (API 21)",
+      "C": "Android 6.0 (API 23)",
+      "D": "Android 7.0 (API 24)"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué función se utiliza para verificar si un permiso está concedido?",
+    "opciones": {
+      "A": "requestPermissions()",
+      "B": "checkSelfPermission()",
+      "C": "onRequestPermissionsResult()",
+      "D": "PackageManager.PERMISSION_GRANTED"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué herramienta se utiliza para ofuscar el código y dificultar la ingeniería inversa en Android?",
+    "opciones": {
+      "A": "Gradle",
+      "B": "DexGuard",
+      "C": "ProGuard",
+      "D": "Android Debug Bridge (ADB)"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de conexión se debe usar para la comunicación de red segura?",
+    "opciones": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "HTTPS (SSL/TLS)",
+      "D": "SMTP"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo del tema?",
+    "opciones": {
+      "A": "Desarrollar juegos complejos en Android Studio",
+      "B": "Establecer una comunicación eficiente entre cliente y servidor en aplicaciones móviles",
+      "C": "Diseñar interfaces de usuario atractivas",
+      "D": "Optimizar el rendimiento de la batería en dispositivos móviles"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un cliente en la arquitectura cliente-servidor?",
+    "opciones": {
+      "A": "El programa que almacena los datos",
+      "B": "El programa que responde a las solicitudes",
+      "C": "El programa que solicita información",
+      "D": "El programa que administra la red"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de petición HTTP?",
+    "opciones": {
+      "A": "GET",
+      "B": "POST",
+      "C": "UPDATE",
+      "D": "DELETE"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué formato de datos es más comúnmente utilizado en la transferencia de información entre plataformas?",
+    "opciones": {
+      "A": "XML",
+      "B": "JSON",
+      "C": "HTML",
+      "D": "CSV"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una característica principal de una API REST?",
+    "opciones": {
+      "A": "Arquitectura basada en recursos",
+      "B": "Uso de cookies para mantener el estado",
+      "C": "Operaciones estándar del protocolo HTTP",
+      "D": "Stateless (Sin Estado)"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la API nativa de Java para realizar solicitudes HTTP en Android?",
+    "opciones": {
+      "A": "OkHttp",
+      "B": "Retrofit",
+      "C": "HttpURLConnection",
+      "D": "Gson"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué librería simplifica enormemente la comunicación con APIs RESTful y es la más utilizada actualmente?",
+    "opciones": {
+      "A": "HttpURLConnection",
+      "B": "OkHttp",
+      "C": "Retrofit",
+      "D": "Gson"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué anotación se utiliza en Retrofit para especificar el método HTTP GET?",
+    "opciones": {
+      "A": "@POST",
+      "B": "@PUT",
+      "C": "@DELETE",
+      "D": "@GET"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué clase se utiliza en Android para enviar mensajes SMS?",
+    "opciones": {
+      "A": "SmsReceiver",
+      "B": "TelephonyManager",
+      "C": "SmsManager",
+      "D": "BroadcastReceiver"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué permiso es necesario declarar en AndroidManifest.xml para poder enviar SMS?",
+    "opciones": {
+      "A": "android.permission.RECEIVE_SMS",
+      "B": "android.permission.READ_SMS",
+      "C": "android.permission.SEND_SMS",
+      "D": "android.permission.ACCESS_FINE_LOCATION"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué componente se utiliza para recibir mensajes SMS entrantes en Android?",
+    "opciones": {
+      "A": "SmsManager",
+      "B": "Activity",
+      "C": "BroadcastReceiver",
+      "D": "Service"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es un Toast en Android?",
+    "opciones": {
+      "A": "Un tipo de base de datos",
+      "B": "Un mensaje que se muestra en pantalla durante unos segundos",
+      "C": "Un diálogo interactivo",
+      "D": "Una notificación persistente"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué método de la clase Toast se utiliza para mostrar el mensaje en pantalla?",
+    "opciones": {
+      "A": "makeText()",
+      "B": "show()",
+      "C": "setGravity()",
+      "D": "inflate()"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la superclase de la que deben heredar los diálogos en Android?",
+    "opciones": {
+      "A": "Activity",
+      "B": "View",
+      "C": "DialogFragment",
+      "D": "BroadcastReceiver"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método se debe sobrescribir para construir un diálogo?",
+    "opciones": {
+      "A": "onCreateView()",
+      "B": "onStart()",
+      "C": "onCreateDialog()",
+      "D": "onResponse()"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de permisos se otorgan automáticamente al instalar una aplicación?",
+    "opciones": {
+      "A": "Permisos Sensibles",
+      "B": "Permisos Especiales",
+      "C": "Permisos Normales",
+      "D": "Todos los permisos"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Desde qué versión de Android se introdujeron los permisos en tiempo de ejecución?",
+    "opciones": {
+      "A": "Android 4.4 (API 19)",
+      "B": "Android 5.0 (API 21)",
+      "C": "Android 6.0 (API 23)",
+      "D": "Android 7.0 (API 24)"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué función se utiliza para verificar si un permiso está concedido?",
+    "opciones": {
+      "A": "requestPermissions()",
+      "B": "checkSelfPermission()",
+      "C": "onRequestPermissionsResult()",
+      "D": "PackageManager.PERMISSION_GRANTED"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué herramienta se utiliza para ofuscar el código y dificultar la ingeniería inversa en Android?",
+    "opciones": {
+      "A": "Gradle",
+      "B": "DexGuard",
+      "C": "ProGuard",
+      "D": "Android Debug Bridge (ADB)"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de conexión se debe usar para la comunicación de red segura?",
+    "opciones": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "HTTPS (SSL/TLS)",
+      "D": "SMTP"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la nueva plataforma para las bibliotecas multimedia en Android?",
+    "opciones": {
+      "A": "MediaPlayer",
+      "B": "Jetpack Media3",
+      "C": "MediaSession",
+      "D": "ExoPlayer"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un objetivo del tema?",
+    "opciones": {
+      "A": "Conocer los distintos formatos multimedia soportados.",
+      "B": "Utilizar la librería Jetpack Media3 para reproducir archivos de audio y vídeo.",
+      "C": "Modificar y usar ExoPlayer.",
+      "D": "Aprender sobre la creación de animaciones 3D en Android."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué medios se combinan en el término 'multimedia'?",
+    "opciones": {
+      "A": "Texto, imagen y sonido",
+      "B": "Imagen, sonido y vídeo",
+      "C": "Texto, animación y vídeo",
+      "D": "Texto, imagen, sonido, animación y vídeo"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Desde qué orígenes se puede reproducir audio y vídeo?",
+    "opciones": {
+      "A": "Fichero almacenado en el dispositivo",
+      "B": "Recurso incrustado en el paquete de la aplicación (.apk)",
+      "C": "Stream leído desde una conexión de red",
+      "D": "Todas las anteriores"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué protocolos se admiten para la reproducción de streams desde una conexión de red?",
+    "opciones": {
+      "A": "http:// y ftp://",
+      "B": "rtsp:// y sftp://",
+      "C": "http:// y rstp://",
+      "D": "ftp:// y sftp://"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué clase de API simplifica el manejo de la fragmentación y ofrece optimizaciones adaptadas al dispositivo?",
+    "opciones": {
+      "A": "MediaPlayer",
+      "B": "MediaSession",
+      "C": "Jetpack Media3",
+      "D": "ExoPlayer"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué interfaz define las capacidades de alto nivel de un reproductor multimedia?",
+    "opciones": {
+      "A": "MediaSession",
+      "B": "Player",
+      "C": "ExoPlayer",
+      "D": "MediaPlayer"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente permite a una aplicación interactuar con un reproductor de audio o vídeo y anunciar la reproducción de medios de forma externa?",
+    "opciones": {
+      "A": "MediaController",
+      "B": "MediaSession",
+      "C": "MediaPlayer",
+      "D": "MediaLibraryService"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente mantiene una sesión multimedia en un servicio separado de la Activity principal para facilitar la reproducción en segundo plano?",
+    "opciones": {
+      "A": "MediaController",
+      "B": "MediaSession",
+      "C": "MediaSessionService",
+      "D": "MediaLibraryService"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué componente permite al usuario navegar por la biblioteca de contenidos de una aplicación multimedia?",
+    "opciones": {
+      "A": "MediaController",
+      "B": "MediaBrowser",
+      "C": "MediaPlayer",
+      "D": "MediaLibraryService"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente de la interfaz de usuario predeterminado se utiliza para mostrar el vídeo y los controles de reproducción?",     
+    "opciones": {
+      "A": "PlayerControlView",
+      "B": "SubtitleView",
+      "C": "Surface",
+      "D": "PlayerView"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué API de Media3 se utiliza para la edición multimedia?",
+    "opciones": {
+      "A": "MediaPlayer",
+      "B": "Transformer",
+      "C": "ExoPlayer",
+      "D": "MediaSession"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un estado de un objeto MediaPlayer?",
+    "opciones": {
+      "A": "Preparing",
+      "B": "Started",
+      "C": "Buffering",
+      "D": "Paused"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué interfaz define la funcionalidad básica de un reproductor multimedia en Jetpack Media3?",
+    "opciones": {
+      "A": "MediaPlayer",
+      "B": "ExoPlayer",
+      "C": "Player",
+      "D": "MediaSession"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué ventajas adicionales ofrece ExoPlayer en comparación con la API de MediaPlayer de Android?",
+    "opciones": {
+      "A": "Compatibilidad con varios protocolos de transmisión",
+      "B": "Procesadores de audio y video predeterminados",
+      "C": "Componentes que controlan el almacenamiento en búfer de contenido multimedia",
+      "D": "Todas las anteriores"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué se debe agregar a la sección Android del build.gradle para habilitar la compatibilidad con Java 8?",
+    "opciones": {
+      "A": "kotlinOptions { jvmTarget = '1.8' }",
+      "B": "compileOptions { sourceCompatibility JavaVersion.VERSION_1_8 }",
+      "C": "compileOptions { targetCompatibility JavaVersion.VERSION_1_8 }",
+      "D": "android { javaVersion = JavaVersion.VERSION_1_8 }"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Desde qué subproceso de la aplicación se debe acceder a las instancias de ExoPlayer?",
+    "opciones": {
+      "A": "Desde cualquier subproceso",
+      "B": "Desde un subproceso en segundo plano",
+      "C": "Desde el subproceso principal de la aplicación",
+      "D": "Desde un subproceso dedicado"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué clase representa un elemento multimedia en ExoPlayer?",
+    "opciones": {
+      "A": "MediaSource",
+      "B": "MediaItem",
+      "C": "PlayerView",
+      "D": "Transformer"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué método permite buscar dentro del contenido multimedia en ExoPlayer?",
+    "opciones": {
+      "A": "play()",
+      "B": "pause()",
+      "C": "seekTo()",
+      "D": "next()"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué interfaz se utiliza para recibir eventos del reproductor, como cambios de estado y errores de reproducción?",
+    "opciones": {
+      "A": "Player.Callback",
+      "B": "MediaSession.Callback",
+      "C": "Player.Listener",
+      "D": "ExoPlayer.Listener"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la nueva plataforma para las bibliotecas multimedia en Android?",
+    "opciones": {
+      "A": "MediaPlayer",
+      "B": "Jetpack Media3",
+      "C": "MediaSession",
+      "D": "ExoPlayer"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un objetivo del tema?",
+    "opciones": {
+      "A": "Conocer los distintos formatos multimedia soportados.",
+      "B": "Utilizar la librería Jetpack Media3 para reproducir archivos de audio y vídeo.",
+      "C": "Modificar y usar ExoPlayer.",
+      "D": "Aprender sobre la creación de animaciones 3D en Android."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué medios se combinan en el término 'multimedia'?",
+    "opciones": {
+      "A": "Texto, imagen y sonido",
+      "B": "Imagen, sonido y vídeo",
+      "C": "Texto, animación y vídeo",
+      "D": "Texto, imagen, sonido, animación y vídeo"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Desde qué orígenes se puede reproducir audio y vídeo?",
+    "opciones": {
+      "A": "Fichero almacenado en el dispositivo",
+      "B": "Recurso incrustado en el paquete de la aplicación (.apk)",
+      "C": "Stream leído desde una conexión de red",
+      "D": "Todas las anteriores"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué protocolos se admiten para la reproducción de streams desde una conexión de red?",
+    "opciones": {
+      "A": "http:// y ftp://",
+      "B": "rtsp:// y sftp://",
+      "C": "http:// y rstp://",
+      "D": "ftp:// y sftp://"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué clase de API simplifica el manejo de la fragmentación y ofrece optimizaciones adaptadas al dispositivo?",
+    "opciones": {
+      "A": "MediaPlayer",
+      "B": "MediaSession",
+      "C": "Jetpack Media3",
+      "D": "ExoPlayer"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué interfaz define las capacidades de alto nivel de un reproductor multimedia?",
+    "opciones": {
+      "A": "MediaSession",
+      "B": "Player",
+      "C": "ExoPlayer",
+      "D": "MediaPlayer"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente permite a una aplicación interactuar con un reproductor de audio o vídeo y anunciar la reproducción de medios de forma externa?",
+    "opciones": {
+      "A": "MediaController",
+      "B": "MediaSession",
+      "C": "MediaPlayer",
+      "D": "MediaLibraryService"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente mantiene una sesión multimedia en un servicio separado de la Activity principal para facilitar la reproducción en segundo plano?",
+    "opciones": {
+      "A": "MediaController",
+      "B": "MediaSession",
+      "C": "MediaSessionService",
+      "D": "MediaLibraryService"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué componente permite al usuario navegar por la biblioteca de contenidos de una aplicación multimedia?",
+    "opciones": {
+      "A": "MediaController",
+      "B": "MediaBrowser",
+      "C": "MediaPlayer",
+      "D": "MediaLibraryService"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente de la interfaz de usuario predeterminado se utiliza para mostrar el vídeo y los controles de reproducción?",     
+    "opciones": {
+      "A": "PlayerControlView",
+      "B": "SubtitleView",
+      "C": "Surface",
+      "D": "PlayerView"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué API de Media3 se utiliza para la edición multimedia?",
+    "opciones": {
+      "A": "MediaPlayer",
+      "B": "Transformer",
+      "C": "ExoPlayer",
+      "D": "MediaSession"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un estado de un objeto MediaPlayer?",
+    "opciones": {
+      "A": "Preparing",
+      "B": "Started",
+      "C": "Buffering",
+      "D": "Paused"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué interfaz define la funcionalidad básica de un reproductor multimedia en Jetpack Media3?",
+    "opciones": {
+      "A": "MediaPlayer",
+      "B": "ExoPlayer",
+      "C": "Player",
+      "D": "MediaSession"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué ventajas adicionales ofrece ExoPlayer en comparación con la API de MediaPlayer de Android?",
+    "opciones": {
+      "A": "Compatibilidad con varios protocolos de transmisión",
+      "B": "Procesadores de audio y video predeterminados",
+      "C": "Componentes que controlan el almacenamiento en búfer de contenido multimedia",
+      "D": "Todas las anteriores"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué se debe agregar a la sección Android del build.gradle para habilitar la compatibilidad con Java 8?",
+    "opciones": {
+      "A": "kotlinOptions { jvmTarget = '1.8' }",
+      "B": "compileOptions { sourceCompatibility JavaVersion.VERSION_1_8 }",
+      "C": "compileOptions { targetCompatibility JavaVersion.VERSION_1_8 }",
+      "D": "android { javaVersion = JavaVersion.VERSION_1_8 }"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Desde qué subproceso de la aplicación se debe acceder a las instancias de ExoPlayer?",
+    "opciones": {
+      "A": "Desde cualquier subproceso",
+      "B": "Desde un subproceso en segundo plano",
+      "C": "Desde el subproceso principal de la aplicación",
+      "D": "Desde un subproceso dedicado"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué clase representa un elemento multimedia en ExoPlayer?",
+    "opciones": {
+      "A": "MediaSource",
+      "B": "MediaItem",
+      "C": "PlayerView",
+      "D": "Transformer"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué método permite buscar dentro del contenido multimedia en ExoPlayer?",
+    "opciones": {
+      "A": "play()",
+      "B": "pause()",
+      "C": "seekTo()",
+      "D": "next()"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué interfaz se utiliza para recibir eventos del reproductor, como cambios de estado y errores de reproducción?",
+    "opciones": {
+      "A": "Player.Callback",
+      "B": "MediaSession.Callback",
+      "C": "Player.Listener",
+      "D": "ExoPlayer.Listener"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los objetivos principales del tema 8?",
+    "opciones": {
+      "A": "Aprender sobre diseño de interfaces de usuario.",
+      "B": "Aprender qué son los motores gráficos de videojuegos.",
+      "C": "Dominar el lenguaje de programación Java.",
+      "D": "Crear modelos 3D avanzados."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué representa la arquitectura de software en los videojuegos?",
+    "opciones": {
+      "A": "El diseño de los personajes.",
+      "B": "La estructura del sistema, componentes de software y sus relaciones.",
+      "C": "La música y los efectos de sonido.",
+      "D": "La historia del juego."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En una arquitectura orientada a objetos, ¿qué representa una clase GameObject?",
+    "opciones": {
+      "A": "Un enemigo específico.",
+      "B": "Una bala individual.",
+      "C": "Un objeto físico del mundo.",
+      "D": "Una entidad identificada dentro del juego."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué principio básico del diseño de software se destaca en la arquitectura orientada a componentes?",
+    "opciones": {
+      "A": "La herencia.",
+      "B": "La modularidad.",
+      "C": "El polimorfismo.",
+      "D": "La encapsulación."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En el paradigma Entidad-Componente, ¿cómo se representa cada elemento del juego?",
+    "opciones": {
+      "A": "Como una clase heredada.",
+      "B": "Como una entidad única, sin herencia.",
+      "C": "Como una función específica.",
+      "D": "Como un objeto global."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un motor de videojuego?",
+    "opciones": {
+      "A": "Un programa para diseñar personajes.",
+      "B": "Una serie de librerías de programación para el diseño, creación y representación de un videojuego.",
+      "C": "Un software para crear música de videojuegos.",
+      "D": "Un dispositivo de hardware para jugar videojuegos."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la abstracción de hardware?",
+    "opciones": {
+      "A": "El proceso de diseñar hardware para videojuegos.",
+      "B": "La capacidad de desarrollar videojuegos sin conocer la arquitectura del hardware.",
+      "C": "La creación de modelos 3D detallados.",
+      "D": "La optimización del código para un hardware específico."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿De qué es responsable el motor de renderizado?",
+    "opciones": {
+      "A": "Gestionar la memoria del juego.",
+      "B": "Simular la física del juego.",
+      "C": "Generar las imágenes que los jugadores ven en pantalla.",
+      "D": "Manejar la inteligencia artificial."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué convierte la rasterización?",
+    "opciones": {
+      "A": "Texturas en modelos 3D.",
+      "B": "Código en instrucciones de máquina.",
+      "C": "Triángulos 3D en píxeles 2D.",
+      "D": "Modelos 2D en imágenes 3D."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué son los shaders?",
+    "opciones": {
+      "A": "Modelos 3D predefinidos.",
+      "B": "Pequeños programas ejecutados en la GPU que controlan aspectos específicos del renderizado.",
+      "C": "Efectos de sonido para el juego.",
+      "D": "Librerías de física."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la física en videojuegos?",
+    "opciones": {
+      "A": "Generar gráficos realistas.",
+      "B": "Simular las leyes del mundo real para dar credibilidad al juego.",
+      "C": "Optimizar el rendimiento del juego.",
+      "D": "Crear interfaces de usuario intuitivas."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué simula la dinámica de cuerpos rígidos?",
+    "opciones": {
+      "A": "Objetos que pueden deformarse.",
+      "B": "El movimiento de objetos sólidos que no cambian de forma.",
+      "C": "Sistemas de partículas individuales.",
+      "D": "Líquidos y gases."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué permite el scripting en un motor de videojuegos?",
+    "opciones": {
+      "A": "Añadir nuevos modelos 3D.",
+      "B": "Añadir scripts propios para funcionalidades que no existen en el motor.",
+      "C": "Crear animaciones más realistas.",
+      "D": "Optimizar el código del juego."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el pathfinding en el contexto de la IA en videojuegos?",
+    "opciones": {
+      "A": "La creación de diálogos realistas.",
+      "B": "La generación procedimental de mapas.",
+      "C": "Algoritmos que permiten a los personajes encontrar rutas óptimas.",
+      "D": "El entrenamiento de NPCs mediante aprendizaje automático."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la tarea del administrador de memoria en un motor de videojuegos?",
+    "opciones": {
+      "A": "Crear nuevos assets para el juego.",
+      "B": "Saber cuándo liberar componentes del juego que no están en uso.",
+      "C": "Optimizar los gráficos del juego.",
+      "D": "Gestionar la IA de los personajes."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la fragmentación de memoria?",
+    "opciones": {
+      "A": "La optimización del uso de memoria.",
+      "B": "La asignación eficiente de memoria.",
+      "C": "La creación y destrucción constante de objetos, dejando espacios pequeños en la memoria.",
+      "D": "El proceso de recolección de basura."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un motor de videojuegos?",
+    "opciones": {
+      "A": "Photoshop.",
+      "B": "Microsoft Word.",
+      "C": "Unity.",
+      "D": "Excel."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación utiliza Unity?",
+    "opciones": {
+      "A": "Java.",
+      "B": "Python.",
+      "C": "C#.",
+      "D": "C++."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es una ventaja de usar Godot Engine?",
+    "opciones": {
+      "A": "Calidad gráfica excepcional.",
+      "B": "Es open source y completamente gratuito.",
+      "C": "Amplia biblioteca de assets en la Asset Store.",
+      "D": "Facilidad para crear juegos AAA."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué juego AAA fue creado con Unity?",
+    "opciones": {
+      "A": "Grand Theft Auto V.",
+      "B": "The Last of Us.",
+      "C": "Cuphead.",
+      "D": "Red Dead Redemption 2."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los objetivos principales del tema 8?",
+    "opciones": {
+      "A": "Aprender sobre diseño de interfaces de usuario.",
+      "B": "Aprender qué son los motores gráficos de videojuegos.",
+      "C": "Dominar el lenguaje de programación Java.",
+      "D": "Crear modelos 3D avanzados."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué representa la arquitectura de software en los videojuegos?",
+    "opciones": {
+      "A": "El diseño de los personajes.",
+      "B": "La estructura del sistema, componentes de software y sus relaciones.",
+      "C": "La música y los efectos de sonido.",
+      "D": "La historia del juego."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En una arquitectura orientada a objetos, ¿qué representa una clase GameObject?",
+    "opciones": {
+      "A": "Un enemigo específico.",
+      "B": "Una bala individual.",
+      "C": "Un objeto físico del mundo.",
+      "D": "Una entidad identificada dentro del juego."
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué principio básico del diseño de software se destaca en la arquitectura orientada a componentes?",
+    "opciones": {
+      "A": "La herencia.",
+      "B": "La modularidad.",
+      "C": "El polimorfismo.",
+      "D": "La encapsulación."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "En el paradigma Entidad-Componente, ¿cómo se representa cada elemento del juego?",
+    "opciones": {
+      "A": "Como una clase heredada.",
+      "B": "Como una entidad única, sin herencia.",
+      "C": "Como una función específica.",
+      "D": "Como un objeto global."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un motor de videojuego?",
+    "opciones": {
+      "A": "Un programa para diseñar personajes.",
+      "B": "Una serie de librerías de programación para el diseño, creación y representación de un videojuego.",
+      "C": "Un software para crear música de videojuegos.",
+      "D": "Un dispositivo de hardware para jugar videojuegos."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la abstracción de hardware?",
+    "opciones": {
+      "A": "El proceso de diseñar hardware para videojuegos.",
+      "B": "La capacidad de desarrollar videojuegos sin conocer la arquitectura del hardware.",
+      "C": "La creación de modelos 3D detallados.",
+      "D": "La optimización del código para un hardware específico."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿De qué es responsable el motor de renderizado?",
+    "opciones": {
+      "A": "Gestionar la memoria del juego.",
+      "B": "Simular la física del juego.",
+      "C": "Generar las imágenes que los jugadores ven en pantalla.",
+      "D": "Manejar la inteligencia artificial."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué convierte la rasterización?",
+    "opciones": {
+      "A": "Texturas en modelos 3D.",
+      "B": "Código en instrucciones de máquina.",
+      "C": "Triángulos 3D en píxeles 2D.",
+      "D": "Modelos 2D en imágenes 3D."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué son los shaders?",
+    "opciones": {
+      "A": "Modelos 3D predefinidos.",
+      "B": "Pequeños programas ejecutados en la GPU que controlan aspectos específicos del renderizado.",
+      "C": "Efectos de sonido para el juego.",
+      "D": "Librerías de física."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la física en videojuegos?",
+    "opciones": {
+      "A": "Generar gráficos realistas.",
+      "B": "Simular las leyes del mundo real para dar credibilidad al juego.",
+      "C": "Optimizar el rendimiento del juego.",
+      "D": "Crear interfaces de usuario intuitivas."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué simula la dinámica de cuerpos rígidos?",
+    "opciones": {
+      "A": "Objetos que pueden deformarse.",
+      "B": "El movimiento de objetos sólidos que no cambian de forma.",
+      "C": "Sistemas de partículas individuales.",
+      "D": "Líquidos y gases."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué permite el scripting en un motor de videojuegos?",
+    "opciones": {
+      "A": "Añadir nuevos modelos 3D.",
+      "B": "Añadir scripts propios para funcionalidades que no existen en el motor.",
+      "C": "Crear animaciones más realistas.",
+      "D": "Optimizar el código del juego."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el pathfinding en el contexto de la IA en videojuegos?",
+    "opciones": {
+      "A": "La creación de diálogos realistas.",
+      "B": "La generación procedimental de mapas.",
+      "C": "Algoritmos que permiten a los personajes encontrar rutas óptimas.",
+      "D": "El entrenamiento de NPCs mediante aprendizaje automático."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la tarea del administrador de memoria en un motor de videojuegos?",
+    "opciones": {
+      "A": "Crear nuevos assets para el juego.",
+      "B": "Saber cuándo liberar componentes del juego que no están en uso.",
+      "C": "Optimizar los gráficos del juego.",
+      "D": "Gestionar la IA de los personajes."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la fragmentación de memoria?",
+    "opciones": {
+      "A": "La optimización del uso de memoria.",
+      "B": "La asignación eficiente de memoria.",
+      "C": "La creación y destrucción constante de objetos, dejando espacios pequeños en la memoria.",
+      "D": "El proceso de recolección de basura."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un motor de videojuegos?",
+    "opciones": {
+      "A": "Photoshop.",
+      "B": "Microsoft Word.",
+      "C": "Unity.",
+      "D": "Excel."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación utiliza Unity?",
+    "opciones": {
+      "A": "Java.",
+      "B": "Python.",
+      "C": "C#.",
+      "D": "C++."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es una ventaja de usar Godot Engine?",
+    "opciones": {
+      "A": "Calidad gráfica excepcional.",
+      "B": "Es open source y completamente gratuito.",
+      "C": "Amplia biblioteca de assets en la Asset Store.",
+      "D": "Facilidad para crear juegos AAA."
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué juego AAA fue creado con Unity?",
+    "opciones": {
+      "A": "Grand Theft Auto V.",
+      "B": "The Last of Us.",
+      "C": "Cuphead.",
+      "D": "Red Dead Redemption 2."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el elemento básico que compone cualquier escena en Unity?",
+    "opciones": {
+      "A": "Componentes",
+      "B": "Scripts",
+      "C": "GameObjects",
+      "D": "Materiales"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué componente define la posición, rotación y escala de un GameObject?",
+    "opciones": {
+      "A": "Renderer",
+      "B": "Collider",
+      "C": "Transform",
+      "D": "Rigidbody"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el archivo que contiene toda la información sobre los objetos y configuraciones de una escena?",
+    "opciones": {
+      "A": ".cs",
+      "B": ".prefab",
+      "C": ".unity",
+      "D": ".asset"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método del SceneManager se usa para cargar una escena adicionalmente sin reemplazar la actual?",
+    "opciones": {
+      "A": "LoadScene",
+      "B": "LoadSceneAdditive",
+      "C": "LoadSceneMode.Additive",
+      "D": "SceneManager.LoadScene(\"SceneName\", LoadSceneMode.Additive)"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de Collider mencionado en el texto?",
+    "opciones": {
+      "A": "Box Collider",
+      "B": "Sphere Collider",
+      "C": "Mesh Collider",
+      "D": "Triangle Collider"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "Si desactivas un GameObject padre en una jerarquía, ¿qué ocurre con sus hijos?",
+    "opciones": {
+      "A": "Se mantienen activos",
+      "B": "Se activan",
+      "C": "También se desactivan",
+      "D": "Su estado no cambia"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué son los 'overrides' en el contexto de los Prefabs?",
+    "opciones": {
+      "A": "Cambios que afectan al Prefab original",
+      "B": "Modificaciones que no se pueden revertir",
+      "C": "Modificaciones a componentes en instancias de Prefabs que no afectan al Prefab original",
+      "D": "Ninguna de las anteriores"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué componente de la cámara actúa como el oído del jugador?",
+    "opciones": {
+      "A": "Camera",
+      "B": "Transform",
+      "C": "AudioListener",
+      "D": "Skybox"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de proyección de cámara simula la visión del mundo real?",
+    "opciones": {
+      "A": "Ortogonal",
+      "B": "Isométrica",
+      "C": "Perspectiva",
+      "D": "Paralela"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué eje representa la profundidad en un sistema de coordenadas 3D en Unity?",
+    "opciones": {
+      "A": "Eje X",
+      "B": "Eje Y",
+      "C": "Eje Z",
+      "D": "Eje W"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cómo se accede a las coordenadas globales de un GameObject?",
+    "opciones": {
+      "A": "transform.localPosition",
+      "B": "transform.globalPosition",
+      "C": "transform.position",
+      "D": "transform.worldPosition"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del componente Transform?",
+    "opciones": {
+      "A": "Definir el comportamiento del objeto",
+      "B": "Controlar la física del objeto",
+      "C": "Definir la posición, rotación y escala del objeto",
+      "D": "Gestionar la animación del objeto"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de luz en Unity simula una luz infinita con rayos paralelos?",
+    "opciones": {
+      "A": "Point Light",
+      "B": "Spot Light",
+      "C": "Directional Light",
+      "D": "Area Light"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué shader se utiliza comúnmente para materiales transparentes en Unity?",
+    "opciones": {
+      "A": "Standard Shader",
+      "B": "Unlit Shader",
+      "C": "Transparent Shader",
+      "D": "Metallic Shader"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué hace un 'Normal Map' en un material?",
+    "opciones": {
+      "A": "Define el color base del material",
+      "B": "Añade reflejos metálicos al material",
+      "C": "Simula profundidad y detalles en la superficie",
+      "D": "Hace que el material emita luz"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Dónde se organizan los assets en un proyecto de Unity?",
+    "opciones": {
+      "A": "En la carpeta Library",
+      "B": "En la carpeta Temp",
+      "C": "En la carpeta Assets",
+      "D": "En la carpeta ProjectSettings"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de archivo es un modelo 3D en Unity?",
+    "opciones": {
+      "A": ".cs",
+      "B": ".png",
+      "C": ".fbx",
+      "D": ".wav"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué permite crear el Terrain Editor en Unity?",
+    "opciones": {
+      "A": "Animaciones complejas",
+      "B": "Terrenos grandes y detallados",
+      "C": "Interfaces de usuario interactivas",
+      "D": "Modelos 3D de alta resolución"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Para qué se utiliza el Profiler en Unity?",
+    "opciones": {
+      "A": "Para crear animaciones",
+      "B": "Para depurar scripts",
+      "C": "Para optimizar el rendimiento del juego",
+      "D": "Para diseñar niveles"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta permite diseñar y modificar geometrías 3D directamente en Unity?",
+    "opciones": {
+      "A": "Tilemap",
+      "B": "ProBuilder",
+      "C": "Terrain Editor",
+      "D": "NavMesh"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el elemento básico que compone cualquier escena en Unity?",
+    "opciones": {
+      "A": "Componentes",
+      "B": "Scripts",
+      "C": "GameObjects",
+      "D": "Materiales"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué componente define la posición, rotación y escala de un GameObject?",
+    "opciones": {
+      "A": "Renderer",
+      "B": "Collider",
+      "C": "Transform",
+      "D": "Rigidbody"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el archivo que contiene toda la información sobre los objetos y configuraciones de una escena?",
+    "opciones": {
+      "A": ".cs",
+      "B": ".prefab",
+      "C": ".unity",
+      "D": ".asset"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método del SceneManager se usa para cargar una escena adicionalmente sin reemplazar la actual?",
+    "opciones": {
+      "A": "LoadScene",
+      "B": "LoadSceneAdditive",
+      "C": "LoadSceneMode.Additive",
+      "D": "SceneManager.LoadScene(\"SceneName\", LoadSceneMode.Additive)"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de Collider mencionado en el texto?",
+    "opciones": {
+      "A": "Box Collider",
+      "B": "Sphere Collider",
+      "C": "Mesh Collider",
+      "D": "Triangle Collider"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "Si desactivas un GameObject padre en una jerarquía, ¿qué ocurre con sus hijos?",
+    "opciones": {
+      "A": "Se mantienen activos",
+      "B": "Se activan",
+      "C": "También se desactivan",
+      "D": "Su estado no cambia"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué son los 'overrides' en el contexto de los Prefabs?",
+    "opciones": {
+      "A": "Cambios que afectan al Prefab original",
+      "B": "Modificaciones que no se pueden revertir",
+      "C": "Modificaciones a componentes en instancias de Prefabs que no afectan al Prefab original",
+      "D": "Ninguna de las anteriores"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué componente de la cámara actúa como el oído del jugador?",
+    "opciones": {
+      "A": "Camera",
+      "B": "Transform",
+      "C": "AudioListener",
+      "D": "Skybox"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de proyección de cámara simula la visión del mundo real?",
+    "opciones": {
+      "A": "Ortogonal",
+      "B": "Isométrica",
+      "C": "Perspectiva",
+      "D": "Paralela"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué eje representa la profundidad en un sistema de coordenadas 3D en Unity?",
+    "opciones": {
+      "A": "Eje X",
+      "B": "Eje Y",
+      "C": "Eje Z",
+      "D": "Eje W"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cómo se accede a las coordenadas globales de un GameObject?",
+    "opciones": {
+      "A": "transform.localPosition",
+      "B": "transform.globalPosition",
+      "C": "transform.position",
+      "D": "transform.worldPosition"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del componente Transform?",
+    "opciones": {
+      "A": "Definir el comportamiento del objeto",
+      "B": "Controlar la física del objeto",
+      "C": "Definir la posición, rotación y escala del objeto",
+      "D": "Gestionar la animación del objeto"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de luz en Unity simula una luz infinita con rayos paralelos?",
+    "opciones": {
+      "A": "Point Light",
+      "B": "Spot Light",
+      "C": "Directional Light",
+      "D": "Area Light"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué shader se utiliza comúnmente para materiales transparentes en Unity?",
+    "opciones": {
+      "A": "Standard Shader",
+      "B": "Unlit Shader",
+      "C": "Transparent Shader",
+      "D": "Metallic Shader"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué hace un 'Normal Map' en un material?",
+    "opciones": {
+      "A": "Define el color base del material",
+      "B": "Añade reflejos metálicos al material",
+      "C": "Simula profundidad y detalles en la superficie",
+      "D": "Hace que el material emita luz"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Dónde se organizan los assets en un proyecto de Unity?",
+    "opciones": {
+      "A": "En la carpeta Library",
+      "B": "En la carpeta Temp",
+      "C": "En la carpeta Assets",
+      "D": "En la carpeta ProjectSettings"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de archivo es un modelo 3D en Unity?",
+    "opciones": {
+      "A": ".cs",
+      "B": ".png",
+      "C": ".fbx",
+      "D": ".wav"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué permite crear el Terrain Editor en Unity?",
+    "opciones": {
+      "A": "Animaciones complejas",
+      "B": "Terrenos grandes y detallados",
+      "C": "Interfaces de usuario interactivas",
+      "D": "Modelos 3D de alta resolución"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Para qué se utiliza el Profiler en Unity?",
+    "opciones": {
+      "A": "Para crear animaciones",
+      "B": "Para depurar scripts",
+      "C": "Para optimizar el rendimiento del juego",
+      "D": "Para diseñar niveles"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta permite diseñar y modificar geometrías 3D directamente en Unity?",
+    "opciones": {
+      "A": "Tilemap",
+      "B": "ProBuilder",
+      "C": "Terrain Editor",
+      "D": "NavMesh"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el lenguaje de scripting principal utilizado en Unity?",
+    "opciones": {"A": "Java", "B": "Python", "C": "C#", "D": "C++"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes métodos se ejecuta una vez por frame en Unity?",
+    "opciones": {"A": "Start()", "B": "Awake()", "C": "Update()", "D": "FixedUpdate()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método del ciclo de vida de un script se llama en intervalos de tiempo fijos y es ideal para física?",
+    "opciones": {"A": "Update()", "B": "FixedUpdate()", "C": "LateUpdate()", "D": "Start()"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente en Unity controla las animaciones de un GameObject?",
+    "opciones": {"A": "Animator", "B": "Rigidbody", "C": "Collider", "D": "AudioSource"},
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué herramienta visual en Unity permite crear shaders sin escribir código?",
+    "opciones": {"A": "MonoDevelop", "B": "Shader Graph", "C": "Visual Studio", "D": "Frame Debugger"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de archivo contiene datos de animación, como posiciones de huesos, rotaciones o escalas?",
+    "opciones": {"A": "Script", "B": "Clip de animación", "C": "Prefab", "D": "Material"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el componente que define un flujo de animaciones mediante una máquina de estados?",
+    "opciones": {"A": "Animator", "B": "Animator Controller", "C": "Animation Clip", "D": "Avatar"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un tipo de shader en Unity?",
+    "opciones": {"A": "Standard Shader", "B": "Solid Shader", "C": "Basic Shader", "D": "Simple Shader"},
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el lenguaje de sombreado utilizado en Unity?",
+    "opciones": {"A": "GLSL", "B": "HLSL", "C": "CG", "D": "CUDA"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué función de Unity se utiliza para realizar solicitudes HTTP?",
+    "opciones": {"A": "HttpWebRequest", "B": "WebClient", "C": "UnityWebRequest", "D": "HttpRequest"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta de Unity permite analizar el rendimiento en tiempo real?",
+    "opciones": {"A": "Frame Debugger", "B": "Profiler", "C": "Stats Window", "D": "Console"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un grafo en el contexto de Unity?",
+    "opciones": {"A": "Un modelo 3D", "B": "Un tipo de script", "C": "Una colección de nodos conectados", "D": "Una textura"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones no es una aplicación de grafos y nodos en Unity?",
+    "opciones": {"A": "Shader Graph", "B": "Visual Scripting", "C": "State Machine Graphs", "D": "Text Editing"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué método se llama cuando un GameObject colisiona con otro objeto que tiene un Collider?",
+    "opciones": {"A": "OnTriggerEnter()", "B": "OnCollisionExit()", "C": "OnCollisionEnter()", "D": "OnTriggerExit()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es el Avatar en el sistema de animación de Unity?",
+    "opciones": {"A": "Un tipo de shader", "B": "Un archivo de audio", "C": "Un recurso utilizado para mapear animaciones en personajes humanoides", "D": "Un script"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta se utiliza para crear secuencias cinemáticas que combinan animaciones, cámaras y efectos visuales?",
+    "opciones": {"A": "Animator", "B": "Animation Window", "C": "Timeline", "D": "Scene View"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de la función UnityObjectToClipPos en un Shader?",
+    "opciones": {"A": "Convertir coordenadas de color", "B": "Convertir coordenadas de objeto a espacio de clip", "C": "Calcular la iluminación", "D": "Aplicar una textura"},
+    "respuesta_correcta": "B"
+  },
+    {
+    "pregunta": "¿Qué contiene la respuesta de una API REST en el ejemplo del texto?",
+    "opciones": {"A": "Sprites", "B": "Código C#", "C": "Formato de texto (JSON)", "D": "Datos binarios"},
+    "respuesta_correcta": "C"
+  },
+    {
+    "pregunta": "¿Qué implica la optimización del código en Unity?",
+    "opciones": {"A": "Agregar más funciones al juego", "B": "Cambiar el estilo de arte", "C": "Reducir el consumo de recursos y mejorar el rendimiento", "D": "Traducir el juego a otro idioma"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué significa PBR en el contexto de los shaders estándar de Unity?",
+    "opciones": {"A": "Post-Based Rendering", "B": "Physically Based Rendering", "C": "Pixel-Based Reflection", "D": "Property-Based Rotation"},  
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el lenguaje de scripting principal utilizado en Unity?",
+    "opciones": {"A": "Java", "B": "Python", "C": "C#", "D": "C++"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes métodos se ejecuta una vez por frame en Unity?",
+    "opciones": {"A": "Start()", "B": "Awake()", "C": "Update()", "D": "FixedUpdate()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método del ciclo de vida de un script se llama en intervalos de tiempo fijos y es ideal para física?",
+    "opciones": {"A": "Update()", "B": "FixedUpdate()", "C": "LateUpdate()", "D": "Start()"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué componente en Unity controla las animaciones de un GameObject?",
+    "opciones": {"A": "Animator", "B": "Rigidbody", "C": "Collider", "D": "AudioSource"},
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué herramienta visual en Unity permite crear shaders sin escribir código?",
+    "opciones": {"A": "MonoDevelop", "B": "Shader Graph", "C": "Visual Studio", "D": "Frame Debugger"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de archivo contiene datos de animación, como posiciones de huesos, rotaciones o escalas?",
+    "opciones": {"A": "Script", "B": "Clip de animación", "C": "Prefab", "D": "Material"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el componente que define un flujo de animaciones mediante una máquina de estados?",
+    "opciones": {"A": "Animator", "B": "Animator Controller", "C": "Animation Clip", "D": "Avatar"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un tipo de shader en Unity?",
+    "opciones": {"A": "Standard Shader", "B": "Solid Shader", "C": "Basic Shader", "D": "Simple Shader"},
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el lenguaje de sombreado utilizado en Unity?",
+    "opciones": {"A": "GLSL", "B": "HLSL", "C": "CG", "D": "CUDA"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué función de Unity se utiliza para realizar solicitudes HTTP?",
+    "opciones": {"A": "HttpWebRequest", "B": "WebClient", "C": "UnityWebRequest", "D": "HttpRequest"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta de Unity permite analizar el rendimiento en tiempo real?",
+    "opciones": {"A": "Frame Debugger", "B": "Profiler", "C": "Stats Window", "D": "Console"},
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un grafo en el contexto de Unity?",
+    "opciones": {"A": "Un modelo 3D", "B": "Un tipo de script", "C": "Una colección de nodos conectados", "D": "Una textura"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones no es una aplicación de grafos y nodos en Unity?",
+    "opciones": {"A": "Shader Graph", "B": "Visual Scripting", "C": "State Machine Graphs", "D": "Text Editing"},
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué método se llama cuando un GameObject colisiona con otro objeto que tiene un Collider?",
+    "opciones": {"A": "OnTriggerEnter()", "B": "OnCollisionExit()", "C": "OnCollisionEnter()", "D": "OnTriggerExit()"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es el Avatar en el sistema de animación de Unity?",
+    "opciones": {"A": "Un tipo de shader", "B": "Un archivo de audio", "C": "Un recurso utilizado para mapear animaciones en personajes humanoides", "D": "Un script"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué herramienta se utiliza para crear secuencias cinemáticas que combinan animaciones, cámaras y efectos visuales?",
+    "opciones": {"A": "Animator", "B": "Animation Window", "C": "Timeline", "D": "Scene View"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de la función UnityObjectToClipPos en un Shader?",
+    "opciones": {"A": "Convertir coordenadas de color", "B": "Convertir coordenadas de objeto a espacio de clip", "C": "Calcular la iluminación", "D": "Aplicar una textura"},
+    "respuesta_correcta": "B"
+  },
+    {
+    "pregunta": "¿Qué contiene la respuesta de una API REST en el ejemplo del texto?",
+    "opciones": {"A": "Sprites", "B": "Código C#", "C": "Formato de texto (JSON)", "D": "Datos binarios"},
+    "respuesta_correcta": "C"
+  },
+    {
+    "pregunta": "¿Qué implica la optimización del código en Unity?",
+    "opciones": {"A": "Agregar más funciones al juego", "B": "Cambiar el estilo de arte", "C": "Reducir el consumo de recursos y mejorar el rendimiento", "D": "Traducir el juego a otro idioma"},
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué significa PBR en el contexto de los shaders estándar de Unity?",
+    "opciones": {"A": "Post-Based Rendering", "B": "Physically Based Rendering", "C": "Pixel-Based Reflection", "D": "Property-Based Rotation"},  
+    "respuesta_correcta": "B"
+  }
+]

@@ -1,0 +1,612 @@
+[
+  {
+    "pregunta": "¿Qué significa la sigla CLI en interfaces de usuario?",
+    "opciones": {
+      "A": "Common Language Interface",
+      "B": "Command Line Interface",
+      "C": "Computer Logic Interface",
+      "D": "Control Line Interface"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es una característica principal de una GUI?",
+    "opciones": {
+      "A": "Interacción por comandos escritos",
+      "B": "Interacción gráfica basada en ventanas y botones",
+      "C": "Interacción basada en voz",
+      "D": "Interacción sin interfaz visible"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es una NUI?",
+    "opciones": {
+      "A": "Una interfaz gráfica tradicional",
+      "B": "Una interfaz de línea de comandos",
+      "C": "Una interfaz natural que utiliza gestos, voz o movimientos",
+      "D": "Un tipo de base de datos"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál de estos no es un principio rector de UX?",
+    "opciones": {
+      "A": "Usabilidad",
+      "B": "Funcionalidad",
+      "C": "Accesibilidad",
+      "D": "Velocidad del procesador"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué principio de UX asegura que cualquier persona, independientemente de sus capacidades, pueda usar el producto?",
+    "opciones": {
+      "A": "Funcionalidad",
+      "B": "Accesibilidad",
+      "C": "Innovación",
+      "D": "Diseño y navegación"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la usabilidad en UX?",
+    "opciones": {
+      "A": "La velocidad de carga de la app",
+      "B": "La capacidad del usuario para interactuar de forma intuitiva y fácil",
+      "C": "La cantidad de funciones disponibles",
+      "D": "La estética del diseño"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la fase inicial en el proceso de diseño de UX?",
+    "opciones": {
+      "A": "Desarrollo",
+      "B": "Investigación",
+      "C": "Pruebas",
+      "D": "Creación"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué herramienta se usa comúnmente para crear wireframes en UX?",
+    "opciones": {
+      "A": "Photoshop",
+      "B": "Figma",
+      "C": "Notepad",
+      "D": "Excel"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué principio de UX incluye la innovación para prever mejoras en la experiencia del usuario?",
+    "opciones": {
+      "A": "Funcionalidad",
+      "B": "Innovación",
+      "C": "Accesibilidad",
+      "D": "Usabilidad"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué describe la teoría de la Gestalt en diseño UX/UI?",
+    "opciones": {
+      "A": "La programación de interfaces",
+      "B": "La forma en que los usuarios perciben patrones y agrupaciones visuales",
+      "C": "El rendimiento del sistema",
+      "D": "La gestión de bases de datos"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la principal ventaja del sistema grid en Bootstrap?",
+    "opciones": {
+      "A": "Permite un diseño responsive basado en 12 columnas virtuales",
+      "B": "Permite cargar datos de forma rápida",
+      "C": "Se usa para programación en Java",
+      "D": "Gestiona bases de datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "En Bootstrap, ¿qué clase se usa para definir una fila en el sistema grid?",
+    "opciones": {
+      "A": "container",
+      "B": "row",
+      "C": "col",
+      "D": "btn"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el número total de columnas virtuales que usa Bootstrap en su grid?",
+    "opciones": {
+      "A": "10",
+      "B": "8",
+      "C": "12",
+      "D": "16"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué clase de Bootstrap se usa para crear botones?",
+    "opciones": {
+      "A": "btn",
+      "B": "button",
+      "C": "input",
+      "D": "col"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de un modal en Bootstrap?",
+    "opciones": {
+      "A": "Crear un botón",
+      "B": "Mostrar contenido destacado o emergente sobre la página",
+      "C": "Definir una columna",
+      "D": "Crear un menú"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál de estas opciones no es un ejemplo de NUI?",
+    "opciones": {
+      "A": "Reconocimiento de voz",
+      "B": "Detección de movimiento",
+      "C": "Introducción por teclado",
+      "D": "Reconocimiento de huellas dactilares"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué tipo de eventos JavaScript son imprescindibles para interacciones táctiles?",
+    "opciones": {
+      "A": "click",
+      "B": "touch",
+      "C": "mouseover",
+      "D": "keydown"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué papel juega la retroalimentación en la experiencia del usuario?",
+    "opciones": {
+      "A": "No tiene importancia",
+      "B": "Informa al usuario sobre el resultado de sus acciones",
+      "C": "Reduce el tiempo de carga",
+      "D": "Aumenta el tamaño de la página"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un wireframe en UX/UI?",
+    "opciones": {
+      "A": "Un prototipo funcional",
+      "B": "El esqueleto visual o esquema básico de la interfaz",
+      "C": "El código final de la aplicación",
+      "D": "Una base de datos"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de JavaScript en interfaces web?",
+    "opciones": {
+      "A": "Crear estilos CSS",
+      "B": "Controlar la interacción y dinamismo del interfaz",
+      "C": "Gestionar bases de datos",
+      "D": "Definir el contenido HTML"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué ventaja ofrece usar Bootstrap en el desarrollo web?",
+    "opciones": {
+      "A": "Permite crear aplicaciones sin código",
+      "B": "Facilita el diseño responsive y estilos predefinidos",
+      "C": "Gestiona la base de datos automáticamente",
+      "D": "Es un lenguaje de programación"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la responsividad en diseño web?",
+    "opciones": {
+      "A": "La capacidad de la web para ajustarse a diferentes tamaños de pantalla",
+      "B": "La rapidez de carga de la web",
+      "C": "El número de usuarios simultáneos",
+      "D": "El uso de colores llamativos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de contenido se maneja dentro de un container en Bootstrap?",
+    "opciones": {
+      "A": "Código JavaScript",
+      "B": "Contenido agrupado con márgenes y paddings para layout",
+      "C": "Base de datos",
+      "D": "Estilos CSS"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la función del sistema grid en Bootstrap?",
+    "opciones": {
+      "A": "Gestionar la base de datos",
+      "B": "Estructurar la página en filas y columnas para un diseño flexible",
+      "C": "Crear animaciones",
+      "D": "Ejecutar código JavaScript"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tecnología se utiliza para animaciones en desarrollo de apps VR?",
+    "opciones": {
+      "A": "Bootstrap",
+      "B": "Unity y Unreal",
+      "C": "HTML5",
+      "D": "CSS3"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué framework front se basa en componentes y estilos CSS predefinidos?",
+    "opciones": {
+      "A": "Bootstrap",
+      "B": "MongoDB",
+      "C": "Spring Boot",
+      "D": "Hibernate"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa UI en diseño de interfaces?",
+    "opciones": {
+      "A": "User Interaction",
+      "B": "User Interface",
+      "C": "Universal Integration",
+      "D": "Unique Implementation"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal del diseño UX?",
+    "opciones": {
+      "A": "Crear una interfaz estética",
+      "B": "Mejorar la experiencia del usuario para que sea intuitiva y funcional",
+      "C": "Aumentar la velocidad del software",
+      "D": "Reducir costes"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un Jumbotron en Bootstrap?",
+    "opciones": {
+      "A": "Un botón especial",
+      "B": "Un componente para destacar contenido principal o destacado",
+      "C": "Un sistema de grid",
+      "D": "Una fila en el layout"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un container fluid en Bootstrap?",
+    "opciones": {
+      "A": "Un contenedor con ancho fijo",
+      "B": "Un contenedor que ocupa todo el ancho de la pantalla",
+      "C": "Un botón especial",
+      "D": "Una columna"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es una ventaja del uso de CSS Grid frente a Bootstrap?",
+    "opciones": {
+      "A": "Es nativo en CSS y ofrece mayor control de diseño personalizado",
+      "B": "No es responsive",
+      "C": "No funciona en navegadores modernos",
+      "D": "No permite columnas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué describe mejor el modelo MVC en desarrollo de interfaces gráficas?",
+    "opciones": {
+      "A": "Modelo-Vista-Controlador que separa lógica, presentación y control",
+      "B": "Una base de datos relacional",
+      "C": "Un tipo de framework CSS",
+      "D": "Un lenguaje de programación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa que una interfaz sea 'intuitiva'?",
+    "opciones": {
+      "A": "Que es complicada pero potente",
+      "B": "Que el usuario puede usarla fácilmente sin instrucciones",
+      "C": "Que usa muchos colores",
+      "D": "Que requiere tutoriales"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad de un loader en UX/UI?",
+    "opciones": {
+      "A": "Indicar al usuario que una acción está en proceso",
+      "B": "Mostrar errores",
+      "C": "Cerrar la aplicación",
+      "D": "Navegar a otra página"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es BOM en la gestión web?",
+    "opciones": {
+      "A": "Browser Object Model, controla aspectos del navegador como la ventana y navegación",
+      "B": "Base Object Model",
+      "C": "Backend Object Model",
+      "D": "Business Object Management"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es DOM en desarrollo web?",
+    "opciones": {
+      "A": "Documento Object Model, representa la estructura del HTML en memoria para manipulación",
+      "B": "Data Object Model",
+      "C": "Database Object Manager",
+      "D": "Dynamic Output Module"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de interacción táctil para NUI?",
+    "opciones": {
+      "A": "Touch y drag&drop",
+      "B": "Click con ratón",
+      "C": "Teclado físico",
+      "D": "Ratón óptico"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un sistema de diseño en UX/UI?",
+    "opciones": {
+      "A": "Un conjunto de estándares, componentes y patrones para un diseño coherente",
+      "B": "Un tipo de base de datos",
+      "C": "Una biblioteca de JavaScript",
+      "D": "Un framework de backend"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué técnica de UX mejora la navegación y experiencia visual agrupando elementos relacionados?",
+    "opciones": {
+      "A": "Teoría de la Gestalt",
+      "B": "JavaScript",
+      "C": "SQL",
+      "D": "Docker"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa que una interfaz sea accesible?",
+    "opciones": {
+      "A": "Que solo funciona en dispositivos específicos",
+      "B": "Que puede ser usada por personas con diferentes capacidades y dispositivos",
+      "C": "Que tiene muchos colores brillantes",
+      "D": "Que es de código abierto"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un objetivo SMART en investigación UX?",
+    "opciones": {
+      "A": "Un objetivo que es específico, medible, alcanzable, relevante y temporal",
+      "B": "Un tipo de diseño",
+      "C": "Un framework CSS",
+      "D": "Un sistema de autenticación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué componente de Bootstrap permite crear columnas de diferentes tamaños según la pantalla?",
+    "opciones": {
+      "A": "btn",
+      "B": "col-lg, col-md, col-sm",
+      "C": "row",
+      "D": "container"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un dropdown en Bootstrap?",
+    "opciones": {
+      "A": "Un tipo de botón desplegable con opciones",
+      "B": "Un contenedor",
+      "C": "Un estilo de texto",
+      "D": "Un tipo de columna"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de un botón en UX/UI?",
+    "opciones": {
+      "A": "Decorar la página",
+      "B": "Permitir que el usuario realice una acción",
+      "C": "Mostrar imágenes",
+      "D": "Aumentar el tamaño de la letra"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el diseño responsive?",
+    "opciones": {
+      "A": "Diseño que se adapta automáticamente a diferentes tamaños de pantalla",
+      "B": "Diseño para pantallas grandes únicamente",
+      "C": "Diseño estático sin cambios",
+      "D": "Diseño para impresión"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la ventaja de usar Flexbox en CSS?",
+    "opciones": {
+      "A": "Permite una distribución flexible y alineación sencilla de elementos en una dimensión",
+      "B": "Crea bases de datos",
+      "C": "Ejecuta JavaScript",
+      "D": "Carga imágenes"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un framework en desarrollo web?",
+    "opciones": {
+      "A": "Una biblioteca que facilita la creación de aplicaciones con código predefinido",
+      "B": "Un sistema operativo",
+      "C": "Un hardware",
+      "D": "Un servidor"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un mockup en diseño UX/UI?",
+    "opciones": {
+      "A": "Una representación visual detallada y estática de la interfaz final",
+      "B": "Un prototipo funcional",
+      "C": "El código final",
+      "D": "Un error del sistema"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué elemento es clave para mejorar la experiencia NUI en dispositivos móviles?",
+    "opciones": {
+      "A": "Eventos touch y gestos intuitivos",
+      "B": "Teclado físico",
+      "C": "Ratón",
+      "D": "Comandos de voz en PC"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una prueba de usabilidad en UX?",
+    "opciones": {
+      "A": "Evaluar cómo los usuarios interactúan y encuentran problemas en el producto",
+      "B": "Medir la velocidad de carga",
+      "C": "Diseñar los colores de la web",
+      "D": "Escribir código"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un diseño de navegación efectivo?",
+    "opciones": {
+      "A": "Un sistema que permite al usuario moverse fácilmente por la interfaz sin confusión",
+      "B": "Un diseño con muchos botones",
+      "C": "Un menú oculto",
+      "D": "Un diseño estático"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué elemento de Bootstrap permite crear menús de navegación responsive?",
+    "opciones": {
+      "A": "Navbar",
+      "B": "Btn",
+      "C": "Container",
+      "D": "Grid"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa que un diseño sea escalable en UX/UI?",
+    "opciones": {
+      "A": "Que puede crecer y adaptarse fácilmente a nuevas funcionalidades y dispositivos",
+      "B": "Que es pequeño",
+      "C": "Que es lento",
+      "D": "Que no cambia"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un componente reusable en desarrollo frontend?",
+    "opciones": {
+      "A": "Un elemento que puede usarse múltiples veces en diferentes partes del proyecto",
+      "B": "Un error del sistema",
+      "C": "Un framework nuevo",
+      "D": "Una base de datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la navegación lateral en interfaces tipo Netflix?",
+    "opciones": {
+      "A": "Un menú horizontal en la parte superior",
+      "B": "Un menú desplazable lateral que organiza contenido en categorías",
+      "C": "Un botón central",
+      "D": "Una ventana emergente"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué herramienta ayuda a crear prototipos interactivos en UX/UI?",
+    "opciones": {
+      "A": "Figma",
+      "B": "MySQL",
+      "C": "PHP",
+      "D": "Docker"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa 'responsive' en CSS Grid y Flexbox?",
+    "opciones": {
+      "A": "Que el diseño cambia automáticamente para diferentes tamaños de pantalla",
+      "B": "Que el diseño es fijo",
+      "C": "Que no se adapta",
+      "D": "Que no usa CSS"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un carousel en diseño web?",
+    "opciones": {
+      "A": "Un componente que permite mostrar imágenes o contenido en un slider horizontal",
+      "B": "Un botón especial",
+      "C": "Un formulario",
+      "D": "Una base de datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de un checkbox en un formulario?",
+    "opciones": {
+      "A": "Permitir seleccionar una o más opciones independientes",
+      "B": "Permitir seleccionar solo una opción",
+      "C": "Enviar el formulario",
+      "D": "Cancelar la acción"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un radio button en formularios web?",
+    "opciones": {
+      "A": "Un botón que permite seleccionar solo una opción entre varias",
+      "B": "Un botón para enviar datos",
+      "C": "Un botón para borrar información",
+      "D": "Un botón para subir archivos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una prueba A/B en UX/UI?",
+    "opciones": {
+      "A": "Comparar dos versiones de una página o diseño para evaluar cuál funciona mejor",
+      "B": "Un tipo de base de datos",
+      "C": "Un lenguaje de programación",
+      "D": "Una herramienta de diseño"
+    },
+    "respuesta_correcta": "A"
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "pregunta": "¿Cuál es una característica clave de un ERP?",
+    "opciones": {
+      "A": "Gestión exclusiva de clientes",
+      "B": "Integración de datos y visión global",
+      "C": "Automatización de tareas administrativas sin datos",
+      "D": "Solo gestión de ventas"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué significa CRM en sistemas empresariales?",
+    "opciones": {
+      "A": "Customer Relationship Management",
+      "B": "Corporate Resource Management",
+      "C": "Control de Recursos de Mercado",
+      "D": "Customer Resource Modeling"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué componente de Odoo gestiona las vistas?",
+    "opciones": {
+      "A": "Models",
+      "B": "Controllers",
+      "C": "Views",
+      "D": "Modules"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación usa Odoo principalmente?",
+    "opciones": {
+      "A": "Java",
+      "B": "Python",
+      "C": "JavaScript",
+      "D": "Ruby"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de bases de datos usa Hibernate principalmente?",
+    "opciones": {
+      "A": "NoSQL",
+      "B": "SQL relacional",
+      "C": "Bases de datos en memoria",
+      "D": "Bases de datos XML"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué función cumple la anotación @Entity en Hibernate?",
+    "opciones": {
+      "A": "Marca una clase como una entidad persistente",
+      "B": "Define una consulta SQL",
+      "C": "Gestiona la conexión a la base de datos",
+      "D": "Controla transacciones"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "En Spring Boot, ¿qué anotación se utiliza para exponer un controlador REST?",
+    "opciones": {
+      "A": "@Controller",
+      "B": "@RestController",
+      "C": "@Service",
+      "D": "@Repository"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué comando en MongoDB se utiliza para buscar un único documento?",
+    "opciones": {
+      "A": "findOne()",
+      "B": "find()",
+      "C": "search()",
+      "D": "query()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un PreparedStatement en JDBC?",
+    "opciones": {
+      "A": "Un objeto para ejecutar consultas SQL parametrizadas y seguras",
+      "B": "Un tipo de conexión a la base de datos",
+      "C": "Un método para leer archivos",
+      "D": "Una clase para manejar resultados"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué estructura de datos en Python es inmutable y puede usarse para colecciones heterogéneas?",
+    "opciones": {
+      "A": "Listas",
+      "B": "Diccionarios",
+      "C": "Tuplas",
+      "D": "Conjuntos"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué es un KPI en el contexto de gestión empresarial?",
+    "opciones": {
+      "A": "Una métrica clave para evaluar el desempeño",
+      "B": "Un tipo de base de datos",
+      "C": "Un módulo de software",
+      "D": "Un lenguaje de programación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa la sigla ERP?",
+    "opciones": {
+      "A": "Enterprise Resource Planning",
+      "B": "Enterprise Relationship Program",
+      "C": "Efficient Resource Processing",
+      "D": "Electronic Resource Platform"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes no es un módulo típico de un ERP?",
+    "opciones": {
+      "A": "Gestión de almacenes",
+      "B": "Gestión de clientes (CRM)",
+      "C": "Edición de imágenes",
+      "D": "Facturación"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué método de pandas se utiliza para leer un archivo CSV?",
+    "opciones": {
+      "A": "read_csv()",
+      "B": "load_csv()",
+      "C": "open_csv()",
+      "D": "import_csv()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "En pandas, ¿qué es un DataFrame?",
+    "opciones": {
+      "A": "Una estructura tabular de datos con filas y columnas",
+      "B": "Una función para graficar datos",
+      "C": "Un tipo de archivo",
+      "D": "Una base de datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué ventaja ofrece el uso de arrays de NumPy frente a listas de Python?",
+    "opciones": {
+      "A": "Mayor velocidad y eficiencia en operaciones numéricas",
+      "B": "Mayor facilidad para manejar cadenas de texto",
+      "C": "Mayor compatibilidad con bases de datos",
+      "D": "Mejor integración con redes sociales"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué comando SQL se usa para eliminar filas con valores nulos en una columna?",
+    "opciones": {
+      "A": "DELETE WHERE columna IS NULL",
+      "B": "REMOVE NULL FROM columna",
+      "C": "DROP NULL columna",
+      "D": "CLEAR NULL columna"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué patrón de diseño sigue Odoo en su arquitectura?",
+    "opciones": {
+      "A": "Modelo-Vista-Controlador (MVC)",
+      "B": "Cliente-Servidor",
+      "C": "Observer",
+      "D": "Singleton"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un repositorio en Spring Data?",
+    "opciones": {
+      "A": "Una interfaz para acceder a datos",
+      "B": "Un servidor web",
+      "C": "Una base de datos",
+      "D": "Una clase para la UI"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método HTTP se usa habitualmente para obtener datos en una API REST?",
+    "opciones": {
+      "A": "GET",
+      "B": "POST",
+      "C": "PUT",
+      "D": "DELETE"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un objeto serializable en Java?",
+    "opciones": {
+      "A": "Un objeto que puede convertirse en bytes para almacenamiento o transmisión",
+      "B": "Un objeto que implementa la interfaz Runnable",
+      "C": "Un objeto que gestiona conexiones de red",
+      "D": "Un objeto que representa una ventana gráfica"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué diferencia hay entre FileReader y BufferedReader en Java?",
+    "opciones": {
+      "A": "BufferedReader lee líneas completas, FileReader lee carácter a carácter",
+      "B": "FileReader es más rápido que BufferedReader",
+      "C": "BufferedReader solo funciona con archivos binarios",
+      "D": "No hay diferencia"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del archivo application.properties en Spring Boot?",
+    "opciones": {
+      "A": "Configurar parámetros de la aplicación como conexión a base de datos",
+      "B": "Almacenar datos del usuario",
+      "C": "Guardar el código fuente",
+      "D": "Configurar interfaces gráficas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa CRUD en el contexto de bases de datos?",
+    "opciones": {
+      "A": "Create, Read, Update, Delete",
+      "B": "Copy, Run, Undo, Delete",
+      "C": "Create, Run, Upload, Download",
+      "D": "Connect, Read, Update, Delete"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "En MongoDB, ¿qué comando se usa para borrar múltiples documentos?",
+    "opciones": {
+      "A": "deleteMany()",
+      "B": "removeAll()",
+      "C": "dropCollection()",
+      "D": "deleteOne()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué relación representa @ManyToOne en Hibernate?",
+    "opciones": {
+      "A": "Muchos registros relacionados a uno",
+      "B": "Uno relacionado a muchos",
+      "C": "Uno a uno",
+      "D": "Muchos a muchos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de la clase Session en Hibernate?",
+    "opciones": {
+      "A": "Gestionar la conexión y operaciones con la base de datos",
+      "B": "Crear interfaces gráficas",
+      "C": "Manejar peticiones HTTP",
+      "D": "Gestionar archivos JSON"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es XPath?",
+    "opciones": {
+      "A": "Lenguaje para navegar y filtrar nodos en XML",
+      "B": "Lenguaje de programación para aplicaciones móviles",
+      "C": "Base de datos NoSQL",
+      "D": "Herramienta de diseño gráfico"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el principal uso de XQuery?",
+    "opciones": {
+      "A": "Consulta avanzada y manipulación de datos XML",
+      "B": "Creación de páginas web dinámicas",
+      "C": "Conexión a bases de datos SQL",
+      "D": "Análisis de datos en Python"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué objeto en JavaFX representa la ventana principal?",
+    "opciones": {
+      "A": "Stage",
+      "B": "Scene",
+      "C": "Node",
+      "D": "Pane"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué anotación en Spring Boot indica que un método maneja peticiones HTTP GET?",
+    "opciones": {
+      "A": "@GetMapping",
+      "B": "@PostMapping",
+      "C": "@RequestMapping",
+      "D": "@DeleteMapping"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un Bean en Spring Framework?",
+    "opciones": {
+      "A": "Un objeto gestionado por el contenedor Spring",
+      "B": "Una base de datos embebida",
+      "C": "Un tipo de excepción",
+      "D": "Una interfaz gráfica"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué hace la función filter() en Python?",
+    "opciones": {
+      "A": "Filtra elementos de una colección según una condición",
+      "B": "Ordena una lista",
+      "C": "Convierte tipos de datos",
+      "D": "Combina listas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de Docker?",
+    "opciones": {
+      "A": "Contener y ejecutar aplicaciones en entornos aislados",
+      "B": "Gestionar bases de datos",
+      "C": "Editar código fuente",
+      "D": "Monitorizar redes"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué herramienta permite la orquestación de múltiples contenedores Docker?",
+    "opciones": {
+      "A": "Docker Compose",
+      "B": "Kubernetes",
+      "C": "Ansible",
+      "D": "Jenkins"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la extensión de archivo para un script de PowerShell?",
+    "opciones": {
+      "A": ".ps1",
+      "B": ".bat",
+      "C": ".sh",
+      "D": ".exe"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué lenguaje se utiliza para escribir scripts en Bash?",
+    "opciones": {
+      "A": "Shell scripting",
+      "B": "Python",
+      "C": "Perl",
+      "D": "JavaScript"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué comando en Linux muestra los procesos activos?",
+    "opciones": {
+      "A": "ps",
+      "B": "ls",
+      "C": "cd",
+      "D": "mkdir"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una VPN?",
+    "opciones": {
+      "A": "Red privada virtual para conexión segura",
+      "B": "Un protocolo web",
+      "C": "Un tipo de malware",
+      "D": "Un servidor de correo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es REST en desarrollo web?",
+    "opciones": {
+      "A": "Arquitectura para servicios web usando HTTP",
+      "B": "Un lenguaje de programación",
+      "C": "Un sistema operativo",
+      "D": "Un servidor web"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es JSON?",
+    "opciones": {
+      "A": "Formato de intercambio de datos ligero y legible",
+      "B": "Un lenguaje de programación",
+      "C": "Una base de datos",
+      "D": "Un protocolo de red"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método en JavaScript se usa para parsear un JSON?",
+    "opciones": {
+      "A": "JSON.parse()",
+      "B": "JSON.stringify()",
+      "C": "JSON.toString()",
+      "D": "JSON.convert()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es Git?",
+    "opciones": {
+      "A": "Sistema de control de versiones distribuido",
+      "B": "Un editor de texto",
+      "C": "Un lenguaje de programación",
+      "D": "Un servidor web"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué comando se usa para clonar un repositorio Git?",
+    "opciones": {
+      "A": "git clone",
+      "B": "git init",
+      "C": "git commit",
+      "D": "git push"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué archivo se usa para ignorar archivos en Git?",
+    "opciones": {
+      "A": ".gitignore",
+      "B": ".gitkeep",
+      "C": "README.md",
+      "D": "LICENSE"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué comando Git crea un commit?",
+    "opciones": {
+      "A": "git commit -m 'mensaje'",
+      "B": "git push",
+      "C": "git pull",
+      "D": "git status"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un pull request en GitHub?",
+    "opciones": {
+      "A": "Solicitud para integrar cambios en un repositorio",
+      "B": "Copiar un repositorio",
+      "C": "Crear un nuevo repositorio",
+      "D": "Descargar código fuente"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué sistema operativo es de código abierto y basado en Unix?",
+    "opciones": {
+      "A": "Linux",
+      "B": "Windows",
+      "C": "macOS",
+      "D": "Android"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una API?",
+    "opciones": {
+      "A": "Interfaz para que aplicaciones interactúen entre sí",
+      "B": "Un sistema operativo",
+      "C": "Un tipo de malware",
+      "D": "Un lenguaje de programación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa SQL?",
+    "opciones": {
+      "A": "Structured Query Language",
+      "B": "Simple Query Language",
+      "C": "Sequential Query Logic",
+      "D": "Standard Query List"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de dato se usa para almacenar texto en SQL?",
+    "opciones": {
+      "A": "VARCHAR",
+      "B": "INT",
+      "C": "BOOLEAN",
+      "D": "FLOAT"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué sentencia SQL recupera datos de una tabla?",
+    "opciones": {
+      "A": "SELECT",
+      "B": "INSERT",
+      "C": "UPDATE",
+      "D": "DELETE"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué lenguaje es común para desarrollar aplicaciones Android?",
+    "opciones": {
+      "A": "Kotlin",
+      "B": "Swift",
+      "C": "Ruby",
+      "D": "PHP"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se usa para mostrar un mensaje en consola en Java?",
+    "opciones": {
+      "A": "System.out.println()",
+      "B": "console.log()",
+      "C": "print()",
+      "D": "echo()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un contenedor en Docker?",
+    "opciones": {
+      "A": "Unidad que encapsula una aplicación y sus dependencias",
+      "B": "Un archivo de configuración",
+      "C": "Un servicio web",
+      "D": "Un lenguaje de programación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un endpoint en una API REST?",
+    "opciones": {
+      "A": "URL donde se accede a un recurso o servicio",
+      "B": "Servidor de base de datos",
+      "C": "Un tipo de dato",
+      "D": "Un archivo de configuración"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa IDE en programación?",
+    "opciones": {
+      "A": "Integrated Development Environment",
+      "B": "Internet Development Engine",
+      "C": "Internal Data Element",
+      "D": "Input Device Emulator"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una variable en programación?",
+    "opciones": {
+      "A": "Un espacio para almacenar datos",
+      "B": "Una función matemática",
+      "C": "Un tipo de archivo",
+      "D": "Una interfaz gráfica"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué operador se usa para asignar valores en la mayoría de lenguajes?",
+    "opciones": {
+      "A": "=",
+      "B": "==",
+      "C": "!=",
+      "D": "+"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un ciclo o bucle en programación?",
+    "opciones": {
+      "A": "Estructura que repite código mientras se cumpla una condición",
+      "B": "Una función matemática",
+      "C": "Un tipo de dato",
+      "D": "Un error de compilación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué palabra reservada se usa para definir una función en Python?",
+    "opciones": {
+      "A": "def",
+      "B": "func",
+      "C": "function",
+      "D": "lambda"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué comando en Linux cambia el directorio actual?",
+    "opciones": {
+      "A": "cd",
+      "B": "ls",
+      "C": "pwd",
+      "D": "mkdir"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una clase en programación orientada a objetos?",
+    "opciones": {
+      "A": "Plantilla para crear objetos con atributos y métodos",
+      "B": "Una función matemática",
+      "C": "Un archivo de texto",
+      "D": "Un sistema operativo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa MVC en desarrollo software?",
+    "opciones": {
+      "A": "Modelo-Vista-Controlador",
+      "B": "Master-View-Controller",
+      "C": "Model-View-Component",
+      "D": "Monitor-Validate-Compile"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué función cumple una interfaz en Java?",
+    "opciones": {
+      "A": "Define métodos que las clases deben implementar",
+      "B": "Almacena datos en memoria",
+      "C": "Ejecuta código en segundo plano",
+      "D": "Conecta con bases de datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es GitHub?",
+    "opciones": {
+      "A": "Plataforma para alojar repositorios Git",
+      "B": "Un lenguaje de programación",
+      "C": "Un sistema operativo",
+      "D": "Un editor de texto"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué lenguaje se usa para diseñar páginas web estáticas?",
+    "opciones": {
+      "A": "HTML",
+      "B": "Python",
+      "C": "Java",
+      "D": "SQL"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué herramienta sirve para depurar código en JavaScript?",
+    "opciones": {
+      "A": "Console del navegador",
+      "B": "Git",
+      "C": "Docker",
+      "D": "Postman"
+    },
+    "respuesta_correcta": "A"
+  }
+]

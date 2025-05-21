@@ -1,0 +1,1493 @@
+[
+  {
+    "pregunta": "¿Qué significa PSP en el contexto de programación?",
+    "opciones": {
+      "A": "Proceso de Software Personal",
+      "B": "Proceso de Software Personalizado",
+      "C": "Proceso de Software Profesional",
+      "D": "Proceso de Software Programado"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal del PSP?",
+    "opciones": {
+      "A": "Aumentar la velocidad de programación",
+      "B": "Mejorar la calidad del software y la productividad personal",
+      "C": "Reducir el número de desarrolladores",
+      "D": "Automatizar pruebas"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Quién es el creador del PSP?",
+    "opciones": {
+      "A": "Bill Gates",
+      "B": "Steve Jobs",
+      "C": "Watts Humphrey",
+      "D": "Linus Torvalds"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "En PSP, ¿qué significa la fase de planificación?",
+    "opciones": {
+      "A": "Codificación del programa",
+      "B": "Estimar el tiempo y recursos para tareas",
+      "C": "Revisión del código",
+      "D": "Documentar errores"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el 'defect tracking' en PSP?",
+    "opciones": {
+      "A": "Seguimiento de errores encontrados durante el desarrollo",
+      "B": "Registro de usuarios del software",
+      "C": "Seguimiento de tareas administrativas",
+      "D": "Control de versiones"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de la fase de diseño en PSP?",
+    "opciones": {
+      "A": "Implementar el código",
+      "B": "Planificar la arquitectura y diseño del software",
+      "C": "Revisar errores de compilación",
+      "D": "Realizar pruebas"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué herramienta suele utilizarse para registrar datos de PSP?",
+    "opciones": {
+      "A": "Diario de trabajo personal",
+      "B": "Base de datos de usuarios",
+      "C": "Software de gestión de proyectos",
+      "D": "Libro de código fuente"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿En qué etapa del PSP se mide el tiempo dedicado a cada actividad?",
+    "opciones": {
+      "A": "Planificación",
+      "B": "Diseño",
+      "C": "Medición o seguimiento",
+      "D": "Pruebas"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué se entiende por 'postmortem' en PSP?",
+    "opciones": {
+      "A": "Revisión final y análisis después de completar un proyecto",
+      "B": "Planificación inicial",
+      "C": "Codificación rápida",
+      "D": "Pruebas automáticas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué beneficio aporta PSP a los desarrolladores?",
+    "opciones": {
+      "A": "Mayor control sobre su trabajo y mejora continua",
+      "B": "Reducir su carga laboral a la mitad",
+      "C": "Evitar reuniones con el equipo",
+      "D": "Automatizar todo el código"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la principal diferencia entre PSP y TSP?",
+    "opciones": {
+      "A": "PSP es individual y TSP es en equipo",
+      "B": "PSP es para diseño y TSP para pruebas",
+      "C": "PSP es un lenguaje de programación",
+      "D": "TSP no se usa en software"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué fase del PSP se enfoca en la revisión personal del código?",
+    "opciones": {
+      "A": "Planificación",
+      "B": "Diseño",
+      "C": "Revisión",
+      "D": "Pruebas"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el principal artefacto que se produce durante la fase de diseño en PSP?",
+    "opciones": {
+      "A": "Código fuente",
+      "B": "Diseño detallado o diagramas",
+      "C": "Reporte de errores",
+      "D": "Plan de pruebas"
+    },
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de datos se registran en PSP para mejorar el proceso?",
+    "opciones": {
+      "A": "Horas trabajadas, defectos y tamaños de código",
+      "B": "Datos de usuarios",
+      "C": "Reportes financieros",
+      "D": "Configuración de hardware"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué se entiende por tamaño en PSP?",
+    "opciones": {
+      "A": "Número de líneas de código o puntos de función",
+      "B": "Tamaño del equipo de desarrollo",
+      "C": "Tamaño del archivo ejecutable",
+      "D": "Tamaño del presupuesto"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué herramienta es comúnmente usada para medir la productividad en PSP?",
+    "opciones": {
+      "A": "Horas por línea de código",
+      "B": "Número de errores reportados",
+      "C": "Tamaño del proyecto",
+      "D": "Número de usuarios finales"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué técnica de revisión se recomienda en PSP?",
+    "opciones": {
+      "A": "Revisión por pares",
+      "B": "Revisión automática",
+      "C": "Revisión personal",
+      "D": "Revisión por cliente"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la última fase en el ciclo PSP tradicional?",
+    "opciones": {
+      "A": "Planificación",
+      "B": "Diseño",
+      "C": "Postmortem",
+      "D": "Pruebas"
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué se registra en un log de defectos en PSP?",
+    "opciones": {
+      "A": "Errores encontrados, su tipo y causa",
+      "B": "Usuarios afectados",
+      "C": "Fechas de entrega",
+      "D": "Configuración del servidor"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cómo ayuda PSP a estimar mejor los proyectos?",
+    "opciones": {
+      "A": "Registrando datos históricos de tiempo y tamaño",
+      "B": "Usando software especializado",
+      "C": "Contratando más programadores",
+      "D": "Ignorando errores"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de documentación se produce en PSP?",
+    "opciones": {
+      "A": "Plan de proyecto, diseño, reporte de defectos",
+      "B": "Manual de usuario únicamente",
+      "C": "Solo código comentado",
+      "D": "Reportes financieros"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la fase de implementación en PSP?",
+    "opciones": {
+      "A": "Codificación del diseño",
+      "B": "Planificación del proyecto",
+      "C": "Análisis de requisitos",
+      "D": "Pruebas finales"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un 'size measure' en PSP?",
+    "opciones": {
+      "A": "Una unidad para medir el tamaño del software",
+      "B": "Cantidad de memoria usada",
+      "C": "Velocidad de ejecución",
+      "D": "Cantidad de usuarios"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de medir el tiempo y los defectos en PSP?",
+    "opciones": {
+      "A": "Mejorar el proceso y calidad de desarrollo",
+      "B": "Reducir el salario de programadores",
+      "C": "Automatizar código",
+      "D": "Disminuir reuniones"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de defectos se registran en PSP?",
+    "opciones": {
+      "A": "Errores de diseño, codificación, pruebas y documentación",
+      "B": "Solo errores de codificación",
+      "C": "Errores del sistema operativo",
+      "D": "Errores de hardware"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué herramienta se recomienda para la planificación en PSP?",
+    "opciones": {
+      "A": "Hojas de cálculo o formularios específicos",
+      "B": "Software CAD",
+      "C": "Herramientas de edición de video",
+      "D": "Redes sociales"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es el 'defect removal efficiency' en PSP?",
+    "opciones": {
+      "A": "Porcentaje de defectos detectados y corregidos antes de entregar",
+      "B": "Velocidad de eliminación de código",
+      "C": "Eficiencia del hardware",
+      "D": "Tiempo total del proyecto"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la fase de 'compilación' en PSP?",
+    "opciones": {
+      "A": "Traducir código fuente a código máquina",
+      "B": "Escribir el diseño",
+      "C": "Probar el software",
+      "D": "Registrar defectos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de las revisiones personales en PSP?",
+    "opciones": {
+      "A": "Detectar y corregir defectos temprano",
+      "B": "Evitar reuniones",
+      "C": "Incrementar la velocidad de codificación",
+      "D": "Eliminar documentación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué métricas se usan en PSP para evaluar el rendimiento del desarrollador?",
+    "opciones": {
+      "A": "Horas trabajadas, defectos encontrados y tamaño del código",
+      "B": "Número de correos enviados",
+      "C": "Horas de ocio",
+      "D": "Cantidad de reuniones"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de actividades incluye la fase de pruebas en PSP?",
+    "opciones": {
+      "A": "Ejecución de casos para encontrar defectos",
+      "B": "Diseño del software",
+      "C": "Planificación del proyecto",
+      "D": "Revisión de requisitos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cómo contribuye PSP a la mejora continua?",
+    "opciones": {
+      "A": "Registrando y analizando datos para ajustar el proceso",
+      "B": "Reduciendo el número de desarrolladores",
+      "C": "Ignorando defectos menores",
+      "D": "Automatizando pruebas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es una ventaja de usar PSP en proyectos personales?",
+    "opciones": {
+      "A": "Mayor control y calidad del trabajo",
+      "B": "Incrementar la burocracia",
+      "C": "Reducir la productividad",
+      "D": "Evitar la planificación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un 'plan de desarrollo' en PSP?",
+    "opciones": {
+      "A": "Estimación y organización de tareas para un proyecto",
+      "B": "Lista de errores",
+      "C": "Manual de usuario",
+      "D": "Código fuente"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa 'defect density' en PSP?",
+    "opciones": {
+      "A": "Número de defectos por unidad de tamaño de código",
+      "B": "Número de usuarios por software",
+      "C": "Cantidad de líneas de código",
+      "D": "Tamaño del archivo ejecutable"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un 'baseline' en PSP?",
+    "opciones": {
+      "A": "Conjunto inicial de datos para comparar mejoras",
+      "B": "Versión final del software",
+      "C": "Plan de proyecto",
+      "D": "Reporte de errores"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué fase incluye la corrección de defectos detectados?",
+    "opciones": {
+      "A": "Implementación",
+      "B": "Pruebas",
+      "C": "Revisión",
+      "D": "Todas las anteriores"
+    },
+    "respuesta_correcta": "D"
+  },
+  {
+    "pregunta": "¿Qué es el 'time tracking' en PSP?",
+    "opciones": {
+      "A": "Registro detallado del tiempo dedicado a cada tarea",
+      "B": "Reuniones para seguimiento",
+      "C": "Control de versiones",
+      "D": "Monitorización del hardware"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el beneficio de usar métricas en PSP?",
+    "opciones": {
+      "A": "Permiten identificar problemas y mejorar el proceso",
+      "B": "Incrementan la burocracia",
+      "C": "Reducen la comunicación",
+      "D": "Evitan la planificación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la fase de 'postmortem' en PSP?",
+    "opciones": {
+      "A": "Análisis y aprendizaje después de completar un proyecto",
+      "B": "Inicio del proyecto",
+      "C": "Codificación rápida",
+      "D": "Automatización de pruebas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué papel tiene la documentación en PSP?",
+    "opciones": {
+      "A": "Registrar el proceso y decisiones para análisis y mejora",
+      "B": "Solo sirve para el cliente",
+      "C": "No es necesaria",
+      "D": "Es sustituida por el código"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la fase de diseño de alto nivel en PSP?",
+    "opciones": {
+      "A": "Definición general de la arquitectura del software",
+      "B": "Implementación del código",
+      "C": "Revisión del código",
+      "D": "Pruebas unitarias"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una 'review checklist' en PSP?",
+    "opciones": {
+      "A": "Lista de puntos a verificar en revisiones",
+      "B": "Lista de tareas del proyecto",
+      "C": "Lista de usuarios",
+      "D": "Lista de bugs"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué importancia tiene la estimación en PSP?",
+    "opciones": {
+      "A": "Permite planificar y gestionar mejor los recursos y tiempos",
+      "B": "Es innecesaria",
+      "C": "Solo sirve para el cliente",
+      "D": "No influye en el proceso"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es el 'plan de pruebas' en PSP?",
+    "opciones": {
+      "A": "Documento que define cómo se realizarán las pruebas",
+      "B": "Código fuente",
+      "C": "Manual de usuario",
+      "D": "Reporte de defectos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la fase de revisión formal en PSP?",
+    "opciones": {
+      "A": "Inspección detallada para detectar errores",
+      "B": "Codificación rápida",
+      "C": "Automatización de pruebas",
+      "D": "Planificación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de datos se analizan en la fase postmortem?",
+    "opciones": {
+      "A": "Tiempo, defectos y causas de problemas",
+      "B": "Usuarios del software",
+      "C": "Datos financieros",
+      "D": "Especificaciones técnicas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa 'process improvement' en PSP?",
+    "opciones": {
+      "A": "Mejora continua del proceso de desarrollo basada en datos",
+      "B": "Reemplazo del equipo de desarrollo",
+      "C": "Automatización completa",
+      "D": "Eliminación de reuniones"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la 'fase de codificación' en PSP?",
+    "opciones": {
+      "A": "Escribir el código conforme al diseño",
+      "B": "Planificar el proyecto",
+      "C": "Revisar defectos",
+      "D": "Realizar pruebas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cómo ayuda PSP a la estimación de tiempo?",
+    "opciones": {
+      "A": "Usando datos históricos para predecir tiempos futuros",
+      "B": "Usando adivinación",
+      "C": "Asignando tiempos aleatorios",
+      "D": "No ayuda"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué herramienta ayuda a controlar el tamaño del software en PSP?",
+    "opciones": {
+      "A": "Medición de líneas de código o puntos de función",
+      "B": "Contador de usuarios",
+      "C": "Editor de texto",
+      "D": "Software de diseño gráfico"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una revisión entre pares en PSP?",
+    "opciones": {
+      "A": "Revisión del código por otros desarrolladores",
+      "B": "Revisión automática",
+      "C": "Revisión por clientes",
+      "D": "Revisión sin documentación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de las métricas en PSP?",
+    "opciones": {
+      "A": "Cuantificar y mejorar el proceso personal",
+      "B": "Disminuir la productividad",
+      "C": "Evitar documentación",
+      "D": "Incrementar el trabajo en equipo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la planificación en PSP?",
+    "opciones": {
+      "A": "Estimar tareas y tiempos para organizar el trabajo",
+      "B": "Escribir código",
+      "C": "Detectar errores",
+      "D": "Revisar defectos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué representa el 'size' en la planificación PSP?",
+    "opciones": {
+      "A": "Cantidad de trabajo estimada, medida en líneas de código o puntos de función",
+      "B": "Número de personas en el equipo",
+      "C": "Tamaño de archivos de documentación",
+      "D": "Cantidad de bugs"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es el seguimiento de tiempo en PSP?",
+    "opciones": {
+      "A": "Registro detallado del tiempo dedicado a cada actividad",
+      "B": "Control del reloj del sistema",
+      "C": "Tiempo de ejecución del programa",
+      "D": "Tiempo de respuesta del cliente"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué se debe hacer en la fase postmortem?",
+    "opciones": {
+      "A": "Analizar el proyecto para identificar mejoras futuras",
+      "B": "Comenzar un nuevo proyecto",
+      "C": "Eliminar documentación",
+      "D": "Ignorar errores"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un 'defect type' en PSP?",
+    "opciones": {
+      "A": "Clasificación de defectos según su causa o naturaleza",
+      "B": "Tipo de software defectuoso",
+      "C": "Usuario con problemas",
+      "D": "Error del compilador"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la revisión personal en PSP?",
+    "opciones": {
+      "A": "Autoevaluación para detectar defectos antes de pruebas formales",
+      "B": "Revisión por otros desarrolladores",
+      "C": "Revisión automatizada",
+      "D": "Revisión por el cliente"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa la medición en PSP?",
+    "opciones": {
+      "A": "Registrar datos sobre tiempo, tamaño y defectos",
+      "B": "Medir la pantalla del ordenador",
+      "C": "Medir la satisfacción del cliente",
+      "D": "Medir el tamaño del equipo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué se entiende por fase de prueba en PSP?",
+    "opciones": {
+      "A": "Ejecución de código para encontrar defectos",
+      "B": "Planificación del proyecto",
+      "C": "Diseño del software",
+      "D": "Revisión personal"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la fase de diseño detallado en PSP?",
+    "opciones": {
+      "A": "Definición pormenorizada de cada componente",
+      "B": "Escribir código",
+      "C": "Probar el software",
+      "D": "Planificar el proyecto"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la eficiencia en la eliminación de defectos?",
+    "opciones": {
+      "A": "Proporción de defectos encontrados antes de liberar el software",
+      "B": "Velocidad de codificación",
+      "C": "Cantidad de documentación",
+      "D": "Número de reuniones"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa PSP en ingeniería de software?",
+    "opciones": {
+      "A": "Proceso de Software Personal",
+      "B": "Programación de Sistemas Profesionales",
+      "C": "Planificación de Software Público",
+      "D": "Proyecto de Software Privado"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad principal de PSP?",
+    "opciones": {
+      "A": "Mejorar la calidad y productividad personal",
+      "B": "Reducir el número de errores del sistema operativo",
+      "C": "Automatizar la documentación",
+      "D": "Reducir el costo del hardware"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué herramienta usa PSP para registrar defectos?",
+    "opciones": {
+      "A": "Registro de defectos o log de defectos",
+      "B": "Correo electrónico",
+      "C": "Software de diseño gráfico",
+      "D": "Chat de equipo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la fase de planificación en PSP?",
+    "opciones": {
+      "A": "Estimar tiempos y recursos para tareas de desarrollo",
+      "B": "Escribir código",
+      "C": "Revisar defectos",
+      "D": "Realizar pruebas"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué se mide en PSP para mejorar el proceso?",
+    "opciones": {
+      "A": "Tiempo, tamaño y defectos",
+      "B": "Número de usuarios",
+      "C": "Cantidad de reuniones",
+      "D": "Presupuesto"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un plan de desarrollo personal en PSP?",
+    "opciones": {
+      "A": "Organización y estimación de tareas propias",
+      "B": "Manual del usuario",
+      "C": "Informe financiero",
+      "D": "Lista de clientes"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de defectos se registran en PSP?",
+    "opciones": {
+      "A": "Errores de diseño, codificación, pruebas y documentación",
+      "B": "Errores de usuario",
+      "C": "Errores de hardware",
+      "D": "Errores del servidor"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué se realiza en la fase de diseño en PSP?",
+    "opciones": {
+      "A": "Definir cómo será el software antes de codificar",
+      "B": "Codificar el programa",
+      "C": "Realizar pruebas unitarias",
+      "D": "Registrar defectos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué se entiende por revisión personal en PSP?",
+    "opciones": {
+      "A": "Autoevaluación para detectar defectos",
+      "B": "Revisión por otro desarrollador",
+      "C": "Revisión automática",
+      "D": "Revisión por cliente"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el beneficio de PSP para desarrolladores?",
+    "opciones": {
+      "A": "Mayor control y mejora continua del trabajo",
+      "B": "Disminuir la comunicación",
+      "C": "Automatizar tareas administrativas",
+      "D": "Reducir horas de trabajo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la fase de pruebas en PSP?",
+    "opciones": {
+      "A": "Ejecución de código para encontrar defectos",
+      "B": "Planificación del proyecto",
+      "C": "Diseño de software",
+      "D": "Documentación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es el análisis postmortem en PSP?",
+    "opciones": {
+      "A": "Evaluar el proyecto para aprender y mejorar",
+      "B": "Inicio del proyecto",
+      "C": "Eliminación de defectos",
+      "D": "Automatización"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué datos registra el PSP para análisis?",
+    "opciones": {
+      "A": "Tiempo, defectos, tamaño del código",
+      "B": "Usuarios finales",
+      "C": "Configuración del hardware",
+      "D": "Costos de producción"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué herramienta facilita la planificación en PSP?",
+    "opciones": {
+      "A": "Estimación de tamaño y tiempo",
+      "B": "Software de diseño gráfico",
+      "C": "Correo electrónico",
+      "D": "Chat de equipo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es el registro de defectos en PSP?",
+    "opciones": {
+      "A": "Documento para anotar errores encontrados",
+      "B": "Software de diseño",
+      "C": "Correo del cliente",
+      "D": "Manual de usuario"
+    },
+    "respuesta_correcta": "A"
+  },
+    {
+    "pregunta": "¿Qué protocolo utiliza los sockets datagram?",
+    "opciones": {
+      "A": "UDP",
+      "B": "TCP",
+      "C": "HTTP",
+      "D": "FTP"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué representa el parámetro lon en el constructor de DatagramPacket?",
+    "opciones": {
+      "A": "La longitud de los datos que se enviarán",
+      "B": "El tamaño del paquete",
+      "C": "El puerto de destino",
+      "D": "La dirección IP"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes afirmaciones es verdadera sobre los sockets datagram en comparación con los sockets stream?",
+    "opciones": {
+      "A": "UDP es más rápido que TCP porque no está orientado a conexión",
+      "B": "UDP es más lento que TCP",
+      "C": "UDP garantiza la entrega de datos",
+      "D": "UDP es orientado a conexión"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué hace el método run() en la clase HiloEscuchador?",
+    "opciones": {
+      "A": "Maneja la comunicación con un cliente específico en un hilo separado",
+      "B": "Inicia la conexión con el servidor",
+      "C": "Envía mensajes a todos los clientes",
+      "D": "Cierra la conexión del servidor"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué ocurre cuando un cliente envía el mensaje “FIN” al servidor en el código de ejemplo?",
+    "opciones": {
+      "A": "El servidor cierra la conexión con ese cliente y le envía un mensaje",
+      "B": "El servidor ignora el mensaje",
+      "C": "El servidor reinicia",
+      "D": "El cliente se desconecta sin aviso"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué ventaja principal ofrece el uso de hilos en un servidor?",
+    "opciones": {
+      "A": "Permite manejar múltiples clientes simultáneamente",
+      "B": "Reduce el uso de memoria",
+      "C": "Mejora la seguridad",
+      "D": "Evita errores de red"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué problema puede ocurrir si no se usan hilos en un servidor que maneja múltiples clientes?",
+    "opciones": {
+      "A": "El servidor solo puede atender a un cliente, bloqueando los demás",
+      "B": "El servidor maneja todos los clientes simultáneamente",
+      "C": "El servidor se desconecta automáticamente",
+      "D": "El servidor pierde datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Por qué es importante usar TLS en una conexión SMTP?",
+    "opciones": {
+      "A": "Para garantizar que la conexión sea segura y los datos estén encriptados",
+      "B": "Para acelerar la transferencia de datos",
+      "C": "Para autenticar al usuario",
+      "D": "Para enviar correos masivos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal del protocolo SMTP?",
+    "opciones": {
+      "A": "Enviar correos electrónicos a un servidor",
+      "B": "Recibir correos electrónicos",
+      "C": "Acceder a páginas web",
+      "D": "Transferir archivos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué función cumple el JavaBeans Activation Framework (JAF) en JavaMail?",
+    "opciones": {
+      "A": "Proporcionar soporte para usar tipos de datos MIME, como archivos adjuntos",
+      "B": "Gestionar la conexión SMTP",
+      "C": "Enviar correos electrónicos",
+      "D": "Recibir correos electrónicos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un servicio en la red?",
+    "opciones": {
+      "A": "Un programa que se ejecuta en segundo plano y es usado por otros programas",
+      "B": "Un usuario conectado a la red",
+      "C": "Un protocolo de comunicación",
+      "D": "Un servidor físico"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué clase en Java se utiliza para crear un registro de objetos remotos en RMI?",
+    "opciones": {
+      "A": "Registry",
+      "B": "Remote",
+      "C": "Stub",
+      "D": "Skeleton"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se utiliza en el cliente para obtener un stub en RMI?",
+    "opciones": {
+      "A": "lookup()",
+      "B": "bind()",
+      "C": "rebind()",
+      "D": "exportObject()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un formato ligero y por qué es útil en la transmisión de información en sistemas distribuidos?",
+    "opciones": {
+      "A": "Un formato que es fácil de procesar y transmitir, como JSON o XML",
+      "B": "Un formato complejo que garantiza seguridad",
+      "C": "Un protocolo de red",
+      "D": "Un sistema operativo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Por qué se dice que XML y JSON son formatos independientes de plataforma?",
+    "opciones": {
+      "A": "Porque no dependen de un sistema operativo o lenguaje específico",
+      "B": "Porque solo funcionan en Windows",
+      "C": "Porque requieren un servidor especial",
+      "D": "Porque son protocolos de comunicación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipo de información se puede representar en un documento JSON?",
+    "opciones": {
+      "A": "Tanto datos simples como estructuras complejas",
+      "B": "Solo texto plano",
+      "C": "Solo imágenes",
+      "D": "Solo archivos binarios"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es Apache Tomcat?",
+    "opciones": {
+      "A": "Un servidor web y de aplicaciones Java",
+      "B": "Un sistema operativo",
+      "C": "Un lenguaje de programación",
+      "D": "Un cliente FTP"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué formato de archivo se utiliza para desplegar aplicaciones en Apache Tomcat?",
+    "opciones": {
+      "A": ".WAR",
+      "B": ".JAR",
+      "C": ".ZIP",
+      "D": ".EXE"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es REST?",
+    "opciones": {
+      "A": "Un estilo que define cómo deben interactuar los sistemas en una red",
+      "B": "Un lenguaje de programación",
+      "C": "Un servidor web",
+      "D": "Un protocolo de base de datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué anotación se utiliza en JAX-RS para indicar que un método responde a una solicitud HTTP POST?",
+    "opciones": {
+      "A": "@POST",
+      "B": "@GET",
+      "C": "@PUT",
+      "D": "@DELETE"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué hace el método redirectInput() en ProcessBuilder?",
+    "opciones": {
+      "A": "Redirige la entrada estándar hacia un archivo o un flujo de entrada",
+      "B": "Redirige la salida estándar a un archivo",
+      "C": "Cierra la entrada estándar",
+      "D": "Inicia un proceso nuevo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué sucede si el archivo entrada.txt no contiene un número válido y el código intenta leer un entero con nextInt()?",
+    "opciones": {
+      "A": "Lanzará una excepción NoSuchElementException",
+      "B": "Devuelve 0",
+      "C": "Ignora el error",
+      "D": "El programa continúa normalmente"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de la clase ProcessBuilder en Java?",
+    "opciones": {
+      "A": "Ejecutar procesos externos desde un programa Java",
+      "B": "Crear interfaces gráficas",
+      "C": "Gestionar hilos",
+      "D": "Conectar bases de datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué sucede si usas redirectOutput(new File(\"salida.txt\")) en un ProcessBuilder?",
+    "opciones": {
+      "A": "La salida estándar del proceso será redirigida al archivo salida.txt",
+      "B": "El proceso no genera salida",
+      "C": "Se lanza una excepción",
+      "D": "La salida se muestra por consola"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué necesitamos añadir a un ProcessBuilder para que la clase Tabla se ejecute correctamente?",
+    "opciones": {
+      "A": "Pasar 2 parámetros: -cp y el classpath usando System.getProperty",
+      "B": "Configurar el puerto de conexión",
+      "C": "Establecer la ruta del archivo de salida",
+      "D": "Llamar al método start()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método en ProcessBuilder te permite redirigir la salida de errores del proceso a un archivo específico?",
+    "opciones": {
+      "A": "redirectError()",
+      "B": "redirectOutput()",
+      "C": "redirectInput()",
+      "D": "redirectException()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué sucede si ProcessBuilder intenta ejecutar una clase que no se encuentra en el classpath especificado?",
+    "opciones": {
+      "A": "Lanzará una excepción ClassNotFoundException",
+      "B": "Ignora la clase y continúa",
+      "C": "El proceso termina sin error",
+      "D": "Se conecta a internet para buscar la clase"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método de ProcessBuilder se usa para esperar que un proceso externo finalice antes de continuar con el código?",
+    "opciones": {
+      "A": "waitFor()",
+      "B": "start()",
+      "C": "run()",
+      "D": "join()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un hilo en Java?",
+    "opciones": {
+      "A": "Una unidad mínima de procesamiento dentro de un proceso",
+      "B": "Un tipo de variable",
+      "C": "Una clase para bases de datos",
+      "D": "Un archivo ejecutable"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué clase en Java se puede extender para crear un hilo?",
+    "opciones": {
+      "A": "Thread",
+      "B": "Runnable",
+      "C": "Executor",
+      "D": "Process"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se debe sobrescribir para definir la tarea de un hilo?",
+    "opciones": {
+      "A": "run()",
+      "B": "start()",
+      "C": "execute()",
+      "D": "main()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se usa para iniciar un hilo en Java?",
+    "opciones": {
+      "A": "start()",
+      "B": "run()",
+      "C": "execute()",
+      "D": "begin()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa que un hilo está en estado bloqueado (blocked)?",
+    "opciones": {
+      "A": "Está esperando a que un recurso esté disponible",
+      "B": "Está ejecutándose activamente",
+      "C": "Ha terminado su ejecución",
+      "D": "Está muerto"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué ocurre si se llama directamente al método run() de un hilo en lugar de start()?",
+    "opciones": {
+      "A": "Se ejecuta en el hilo actual y no crea un hilo nuevo",
+      "B": "Se lanza una excepción",
+      "C": "El hilo se inicia normalmente",
+      "D": "El programa se bloquea"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué interfaz se puede implementar para crear un hilo sin extender la clase Thread?",
+    "opciones": {
+      "A": "Runnable",
+      "B": "Callable",
+      "C": "Executor",
+      "D": "Process"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la ventaja de usar la interfaz Runnable para crear hilos en lugar de extender Thread?",
+    "opciones": {
+      "A": "Permite heredar de otra clase y separar la tarea del hilo",
+      "B": "Es más rápido",
+      "C": "Usa menos memoria",
+      "D": "Permite crear hilos en background"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la sincronización en hilos?",
+    "opciones": {
+      "A": "Un mecanismo para controlar el acceso concurrente a recursos compartidos",
+      "B": "Un método para acelerar hilos",
+      "C": "Un protocolo de comunicación",
+      "D": "Un tipo de hilo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué palabra clave se usa en Java para declarar un bloque sincronizado?",
+    "opciones": {
+      "A": "synchronized",
+      "B": "sync",
+      "C": "lock",
+      "D": "mutex"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué problema se evita usando sincronización en un programa con múltiples hilos?",
+    "opciones": {
+      "A": "Condiciones de carrera (race conditions)",
+      "B": "Excepciones",
+      "C": "Fugas de memoria",
+      "D": "Errores de compilación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la concurrencia?",
+    "opciones": {
+      "A": "La capacidad de un sistema para ejecutar varias tareas aparentemente simultáneamente",
+      "B": "La capacidad de ejecutar un solo hilo rápido",
+      "C": "La forma de ordenar datos",
+      "D": "Un protocolo de red"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué diferencia principal hay entre procesos e hilos?",
+    "opciones": {
+      "A": "Los procesos tienen memoria independiente; los hilos comparten memoria dentro del mismo proceso",
+      "B": "Los hilos son más lentos que procesos",
+      "C": "Los procesos no pueden ser concurrentes",
+      "D": "Los hilos usan más memoria que procesos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un deadlock (interbloqueo)?",
+    "opciones": {
+      "A": "Situación donde dos o más hilos esperan indefinidamente por recursos que los otros tienen",
+      "B": "Un error de compilación",
+      "C": "Un hilo que termina",
+      "D": "Un hilo bloqueado momentáneamente"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cómo se puede evitar un deadlock en Java?",
+    "opciones": {
+      "A": "Adquiriendo los bloqueos siempre en el mismo orden",
+      "B": "Usando muchos hilos",
+      "C": "No usando hilos",
+      "D": "Cerrando la aplicación"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es la serialización en Java?",
+    "opciones": {
+      "A": "Convertir un objeto en una secuencia de bytes para almacenarlo o transmitirlo",
+      "B": "Ordenar objetos alfabéticamente",
+      "C": "Crear un hilo nuevo",
+      "D": "Compilar código"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué interfaz debe implementar una clase para ser serializable?",
+    "opciones": {
+      "A": "Serializable",
+      "B": "Runnable",
+      "C": "Cloneable",
+      "D": "Externalizable"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué clase se usa para escribir objetos serializados en un archivo?",
+    "opciones": {
+      "A": "ObjectOutputStream",
+      "B": "FileOutputStream",
+      "C": "DataOutputStream",
+      "D": "PrintStream"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué clase se usa para leer objetos serializados de un archivo?",
+    "opciones": {
+      "A": "ObjectInputStream",
+      "B": "FileInputStream",
+      "C": "DataInputStream",
+      "D": "Scanner"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué ocurre si cambias la estructura de una clase serializable y luego intentas leer un objeto guardado con la versión anterior?",
+    "opciones": {
+      "A": "Puede lanzar una InvalidClassException si no coinciden los serialVersionUID",
+      "B": "Lee el objeto sin problemas",
+      "C": "Ignora la versión antigua",
+      "D": "El programa se cierra"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un serialVersionUID?",
+    "opciones": {
+      "A": "Un identificador único para una versión de una clase serializable",
+      "B": "Un tipo de hilo",
+      "C": "Una variable temporal",
+      "D": "Un método de serialización"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se usa para serializar un objeto en Java?",
+    "opciones": {
+      "A": "writeObject()",
+      "B": "write()",
+      "C": "serialize()",
+      "D": "save()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se usa para deserializar un objeto en Java?",
+    "opciones": {
+      "A": "readObject()",
+      "B": "read()",
+      "C": "deserialize()",
+      "D": "load()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Para qué se usan los ficheros properties en Java?",
+    "opciones": {
+      "A": "Para almacenar configuraciones y parámetros en formato clave=valor",
+      "B": "Para guardar imágenes",
+      "C": "Para almacenar código fuente",
+      "D": "Para bases de datos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué clase de Java se utiliza para cargar un archivo .properties?",
+    "opciones": {
+      "A": "Properties",
+      "B": "FileReader",
+      "C": "Scanner",
+      "D": "Config"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se usa para obtener el valor de una propiedad en un objeto Properties?",
+    "opciones": {
+      "A": "getProperty()",
+      "B": "get()",
+      "C": "readProperty()",
+      "D": "loadProperty()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué estructura de datos interna usa un objeto Properties?",
+    "opciones": {
+      "A": "Hashtable",
+      "B": "ArrayList",
+      "C": "LinkedList",
+      "D": "HashSet"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene usar archivos properties para la configuración?",
+    "opciones": {
+      "A": "Permite modificar parámetros sin recompilar la aplicación",
+      "B": "Reduce el tamaño del código",
+      "C": "Mejora la seguridad",
+      "D": "Es más rápido"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué formato usa un archivo .properties para almacenar datos?",
+    "opciones": {
+      "A": "Clave=Valor",
+      "B": "JSON",
+      "C": "XML",
+      "D": "Binario"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se usa para guardar cambios en un archivo properties después de modificarlas en memoria?",
+    "opciones": {
+      "A": "store()",
+      "B": "save()",
+      "C": "write()",
+      "D": "commit()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa la abreviatura JNDI en Java?",
+    "opciones": {
+      "A": "Java Naming and Directory Interface",
+      "B": "Java Network Development Interface",
+      "C": "Java Native Data Interface",
+      "D": "Java Named Data Integration"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Para qué se utiliza JNDI en Java EE?",
+    "opciones": {
+      "A": "Para buscar recursos y servicios en un entorno de ejecución",
+      "B": "Para compilar código",
+      "C": "Para enviar correos",
+      "D": "Para manejar hilos"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se usa para buscar un recurso con JNDI?",
+    "opciones": {
+      "A": "lookup()",
+      "B": "bind()",
+      "C": "search()",
+      "D": "find()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué tipos de recursos se pueden buscar con JNDI?",
+    "opciones": {
+      "A": "Bases de datos, EJB, colas JMS, etc.",
+      "B": "Solo bases de datos",
+      "C": "Solo servidores web",
+      "D": "Solo archivos locales"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es RMI en Java?",
+    "opciones": {
+      "A": "Remote Method Invocation, permite ejecutar métodos de objetos en otra JVM",
+      "B": "Remote Machine Interface, para control remoto de ordenadores",
+      "C": "Runtime Memory Integration",
+      "D": "Resource Management Interface"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué archivo es necesario para registrar los objetos remotos en un servidor RMI?",
+    "opciones": {
+      "A": "registry",
+      "B": "config.properties",
+      "C": "client.jar",
+      "D": "server.xml"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un stub en RMI?",
+    "opciones": {
+      "A": "Un proxy local que representa el objeto remoto",
+      "B": "Un objeto remoto real",
+      "C": "Un archivo de configuración",
+      "D": "Un hilo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es un skeleton en RMI?",
+    "opciones": {
+      "A": "La parte del servidor que recibe las llamadas del stub y las invoca en el objeto real",
+      "B": "Un objeto cliente",
+      "C": "Un archivo de configuración",
+      "D": "Un hilo"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué protocolo usa RMI por defecto para la comunicación?",
+    "opciones": {
+      "A": "JRMP (Java Remote Method Protocol)",
+      "B": "HTTP",
+      "C": "TCP/IP sin protocolo específico",
+      "D": "UDP"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué método se usa para exportar un objeto remoto en RMI?",
+    "opciones": {
+      "A": "UnicastRemoteObject.exportObject()",
+      "B": "bind()",
+      "C": "lookup()",
+      "D": "rebind()"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué debe implementar una clase para ser objeto remoto en RMI?",
+    "opciones": {
+      "A": "Una interfaz que extienda Remote",
+      "B": "Runnable",
+      "C": "Serializable",
+      "D": "Cloneable"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué paquete de Java contiene las clases para RMI?",
+    "opciones": {
+      "A": "java.rmi",
+      "B": "java.net",
+      "C": "java.io",
+      "D": "java.util"
+    },
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es una API RESTful?",
+    "opciones": {
+      "A": "Una API que sigue los principios REST para comunicación entre sistemas",
+      "B": "Una interfaz gráfica de usuario",
+      "C": "Un protocolo de base de datos",
+      "D": "Un sistema operativo"
+    },
+    "respuesta_correcta": "A"
+  }
+
+]

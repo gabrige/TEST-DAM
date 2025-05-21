@@ -1,0 +1,12 @@
+[
+  {
+    "pregunta": "¿Ejemplo de pregunta en DevOps?",
+    "opciones": {
+      "A": "Opción A",
+      "B": "Opción B",
+      "C": "Opción C",
+      "D": "Opción D"
+    },
+    "respuesta_correcta": "A"
+  }
+]
